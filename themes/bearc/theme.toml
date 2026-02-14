@@ -1,0 +1,7 @@
+name = "Be A Recovery Coach Theme"
+license = "MIT"
+description = "Editorial transformation design for recovery coach training"
+homepage = "https://bearecoverycoach.com"
+tags = ["responsive", "clean", "professional"]
+features = ["blog", "responsive", "animations"]
+min_version = "0.139.0"

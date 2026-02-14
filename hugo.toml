@@ -1,0 +1,60 @@
+baseURL = 'https://bearecoverycoach.com/'
+languageCode = 'en-us'
+title = 'Be A Recovery Coach'
+theme = 'bearc'
+
+[params]
+  description = 'ICF-accredited family recovery coach training. 75% success rate curriculum + AI-powered platform + professional certification.'
+  author = 'Clay Johnson'
+  email = 'clay@bearecoverycoach.com'
+  phone = '(833) 594-7146'
+  phoneRaw = '8335947146'
+  
+  # Program details
+  price = '$1,099'
+  hours = '80'
+  weeks = '20'
+  successRate = '75%'
+  cohortSize = '30'
+  
+  # Links
+  coreValuesUrl = 'https://corevaluesrecovery.com'
+  samepageUrl = 'https://samepagenotes.com'
+  sobasearchUrl = 'https://sobasearch.com'
+  linkedinUrl = 'https://linkedin.com/in/clayjohnson'
+
+[menu]
+  [[menu.main]]
+    name = 'Curriculum'
+    url = '/curriculum/'
+    weight = 1
+  
+  [[menu.main]]
+    name = 'Platform & Tools'
+    url = '/platform/'
+    weight = 2
+  
+  [[menu.main]]
+    name = 'Success Stories'
+    url = '/success-stories/'
+    weight = 3
+  
+  [[menu.main]]
+    name = 'Pricing'
+    url = '/pricing/'
+    weight = 4
+  
+  [[menu.main]]
+    name = 'About'
+    url = '/about/'
+    weight = 5
+  
+  [[menu.main]]
+    name = 'Blog'
+    url = '/blog/'
+    weight = 6
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

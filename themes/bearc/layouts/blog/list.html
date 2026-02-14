@@ -1,0 +1,42 @@
+{{ define "main" }}
+<section class="section section--cream">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-label">Blog</div>
+            <h1>{{ .Title }}</h1>
+            {{ if .Description }}
+            <p class="section-subtitle">{{ .Description }}</p>
+            {{ end }}
+        </div>
+        
+        <div class="grid grid--2" style="max-width: 1000px; margin: 0 auto;">
+            {{ range .Pages }}
+            <article class="card">
+                <div class="card-content">
+                    <h2 class="card-title">
+                        <a href="{{ .Permalink }}" style="border-bottom: none; color: var(--text-dark);">
+                            {{ .Title }}
+                        </a>
+                    </h2>
+                    
+                    {{ if .Description }}
+                    <p>{{ .Description }}</p>
+                    {{ else }}
+                    <p>{{ .Summary }}</p>
+                    {{ end }}
+                    
+                    <div style="margin-top: 1.5rem;">
+                        <a href="{{ .Permalink }}" class="btn btn--secondary">Read Article →</a>
+                    </div>
+                    
+                    <div style="margin-top: 1rem; font-size: 0.875rem; color: var(--text-light);">
+                        {{ if .Params.author }}By {{ .Params.author }} • {{ end }}
+                        {{ .Date.Format "January 2, 2006" }}
+                    </div>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}

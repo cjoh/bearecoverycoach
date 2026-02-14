@@ -1,0 +1,19 @@
+{{ define "main" }}
+<article class="section section--cream">
+    <div class="container container--narrow">
+        <header class="section-header">
+            {{ if .Params.label }}
+            <div class="section-label">{{ .Params.label }}</div>
+            {{ end }}
+            <h1>{{ .Title }}</h1>
+            {{ if .Description }}
+            <p class="section-subtitle">{{ .Description }}</p>
+            {{ end }}
+        </header>
+        
+        <div class="content" style="background: white; padding: 4rem; border-radius: 0; box-shadow: var(--shadow-sm);">
+            {{ .Content }}
+        </div>
+    </div>
+</article>
+{{ end }}

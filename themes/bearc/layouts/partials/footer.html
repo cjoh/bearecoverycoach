@@ -1,0 +1,44 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <h4>Be A Recovery Coach</h4>
+                <p>ICF-accredited family recovery coach training</p>
+            </div>
+            
+            <div class="footer-col">
+                <h4>Program</h4>
+                <ul>
+                    <li><a href="/curriculum/">Curriculum</a></li>
+                    <li><a href="/platform/">Platform & Tools</a></li>
+                    <li><a href="/pricing/">Pricing & FAQ</a></li>
+                    <li><a href="/apply/">Apply Now</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col">
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="/success-stories/">Success Stories</a></li>
+                    <li><a href="/blog/">Blog</a></li>
+                    <li><a href="/about/">About</a></li>
+                    <li><a href="{{ .Site.Params.coreValuesUrl }}">See Our Coaches in Action</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-col">
+                <h4>Connect</h4>
+                <ul>
+                    <li><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></li>
+                    <li><a href="tel:{{ .Site.Params.phoneRaw }}">{{ .Site.Params.phone }}</a></li>
+                    <li><a href="{{ .Site.Params.linkedinUrl }}">LinkedIn</a></li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; {{ now.Year }} Be A Recovery Coach. All rights reserved.</p>
+            <p>Part of the <a href="{{ .Site.Params.coreValuesUrl }}">Core Values Recovery</a> network</p>
+        </div>
+    </div>
+</footer>
