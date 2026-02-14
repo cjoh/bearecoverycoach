@@ -182,6 +182,8 @@ a:hover {
     align-items: center;
     gap: var(--space-md);
     list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 .nav-menu a {
@@ -196,6 +198,19 @@ a:hover {
 .nav-menu a:hover {
     color: var(--primary-navy);
     border-bottom-color: var(--accent-coral);
+}
+
+.nav-menu a.btn--apply {
+    color: white;
+    border-bottom: none;
+    padding: 0.5rem 1.5rem;
+    line-height: 1.4;
+    vertical-align: middle;
+}
+
+.nav-menu a.btn--apply:hover {
+    color: white;
+    border-bottom: none;
 }
 
 /* ==========================================================================
@@ -225,6 +240,7 @@ a:hover {
 
 .btn--primary:hover {
     background: var(--accent-coral);
+    color: white;
     border-color: var(--accent-coral);
     transform: translateY(-2px);
     box-shadow: var(--shadow-md);
@@ -272,6 +288,7 @@ a:hover {
     background: linear-gradient(135deg, var(--primary-navy) 0%, var(--secondary-navy) 100%);
     color: white;
     overflow: hidden;
+    padding: var(--space-xl) 0;
 }
 
 .hero::before {
@@ -398,6 +415,56 @@ a:hover {
 .section--navy h2,
 .section--navy h3 {
     color: white;
+}
+
+/* Fix headings/links in inline navy divs within markdown content */
+.content div[style*="--primary-navy"] h2,
+.content div[style*="--primary-navy"] h3,
+.content div[style*="--primary-navy"] strong {
+    color: white;
+}
+
+.content div[style*="--primary-navy"] a:not(.btn) {
+    color: var(--accent-coral);
+}
+
+/* Content tables */
+.content table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 2rem 0;
+    font-size: 0.95rem;
+}
+
+.content thead th {
+    background: var(--primary-navy);
+    color: white;
+    padding: 0.75rem 1rem;
+    text-align: left;
+    font-weight: 700;
+}
+
+.content tbody td {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.content tbody tr:nth-child(even) {
+    background: var(--bg-cream);
+}
+
+.content tbody td:first-child {
+    font-weight: 600;
+}
+
+/* Platform tool screenshots */
+.platform-screenshot {
+    max-width: 680px;
+    width: 100%;
+    display: block;
+    margin: 2rem auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
 .section-header {

@@ -6,470 +6,480 @@ author: "Clay Johnson, PCC"
 tags: ["ICF Certification", "Recovery Coach Training", "Career Guide"]
 ---
 
-**Want to become an ICF-certified recovery coach?** You're in the right place.
+**You want to become an ICF-certified recovery coach.** You want the credential that opens doors, builds trust with families, and sets you apart from everyone else calling themselves a coach.
 
-This guide covers everything: requirements, timeline, costs, and the fastest path to becoming an Associate Certified Coach (ACC) specializing in recovery.
+This guide walks you through every step: what ICF requires, what it costs, how long it takes, and how to get there without wasting time or money.
 
----
+***
 
-## What is ICF Certification?
+## What Is ICF Certification?
 
-**ICF = International Coaching Federation**
+**ICF stands for International Coaching Federation.** It is the global gold standard for coaching credentials. Over 55,000 coaches worldwide hold an ICF credential.
 
-The global gold standard for coaching credentials. Over 55,000 credentialed coaches worldwide.
+There are three levels:
 
-**Three levels:**
-1. **ACC (Associate Certified Coach)** - Entry level, 100 coaching hours
-2. **PCC (Professional Certified Coach)** - Intermediate, 500 coaching hours
-3. **MCC (Master Certified Coach)** - Advanced, 2,500 coaching hours
+1. **ACC (Associate Certified Coach)** — Entry level, 100 coaching hours
+2. **PCC (Professional Certified Coach)** — Intermediate, 500 coaching hours
+3. **MCC (Master Certified Coach)** — Advanced, 2,500 coaching hours
 
-**For recovery coaches starting out: ACC is your target.**
+**If you are starting out, ACC is your target.** It proves you have been trained, evaluated, and held to an international standard. That matters when families are trusting you with the hardest season of their lives.
 
----
+***
 
 ## Why ICF Certification Matters for Recovery Coaches
 
-### 1. Credibility with Families
+### 1. Families Look for It
 
-> "I Googled 'recovery coach near me' and the first three were ICF-certified. I didn't even consider non-credentialed coaches."  
-> — Parent seeking family recovery support
+When a parent searches for a recovery coach, they are looking for proof. They have already been burned by promises. They need to know you are qualified.
 
-**Families want proof you're qualified.** ICF credential = international standard.
+An ICF credential gives them that assurance. It is an internationally recognized standard, not a weekend certificate.
 
-### 2. Employment Opportunities
+### 2. Treatment Centers Require It
 
-**Treatment centers increasingly require ICF:**
-- Residential facilities hiring coaches: 78% prefer ICF
-- Outpatient programs: 65% require ICF
-- Private practice referrals from therapists: ICF credential opens doors
+The recovery coaching field is professionalizing fast. Treatment centers, outpatient programs, and therapist referral networks increasingly prefer or require ICF credentials.
 
-**Without ICF, you're locked out of institutional opportunities.**
+Without it, you may be locked out of institutional opportunities before you even apply.
 
-### 3. Insurance Reimbursement (Coming Soon)
+### 3. Insurance Reimbursement Is Coming
 
-Some insurance companies are beginning to reimburse ICF-credentialed coaches for specific services.
+Some insurance companies are beginning to reimburse ICF-credentialed coaches for specific services. The trend is clear. If you want to be positioned when reimbursement pathways open up, you need the credential now.
 
-**Not widespread yet, but the trend is clear:** ICF credential positions you for future reimbursement pathways.
+### 4. It Makes You a Better Coach
 
-### 4. Professional Development
+ICF is not just a badge. It is a framework built on 8 Core Competencies, a code of ethics, continuing education requirements, and a global community of peers.
 
-**ICF isn't just a credential—it's a framework for excellence:**
-- 8 Core Competencies (clear skill standards)
-- Continuing education requirements (stay current)
-- Code of ethics (professional accountability)
-- Global community (peer support, resources)
+You will not just be credentialed. You will be better at what you do.
 
-**ICF makes you a better coach, not just a credentialed one.**
+***
 
----
+## ICF ACC Requirements: What You Actually Need
 
-## ICF ACC Requirements (What You Need)
+Here is exactly what ICF requires for the ACC credential.
 
 ### 1. Accredited Training: 60 Hours Minimum
 
-**You need coach-specific training from an ICF-accredited program.**
+You need coach-specific training from an ICF-accredited program. Not "ICF-aligned." Not "based on ICF principles." Actually accredited by ICF.
 
-**Options:**
-- **Level 1 Accredited Program (60-125 hours)** - Entry point
-- **Level 2 Accredited Program (125+ hours)** - More advanced
+How to verify: Check the [ICF Accredited Program Directory](https://coachingfederation.org/find-a-program).
 
-**Important:** Not all recovery coach trainings are ICF-accredited. Many programs teach coaching but don't meet ICF standards.
-
-**How to verify:** Check [ICF's accredited program directory](https://coachingfederation.org/find-a-program)
+**Important:** Many recovery coach training programs teach coaching skills but do not meet ICF accreditation standards. If the program is not listed in the ICF directory, the hours will not count toward your credential.
 
 ### 2. Coaching Hours: 100 Total (75 Paid)
 
-**You need 100 hours of actual coaching:**
-- 75 hours must be paid (proves you can get clients)
-- 25 hours can be pro bono
+You need 100 hours of real coaching with real clients.
+
+* 75 hours must be paid
+
+* 25 hours can be pro bono
 
 **What counts:**
-- 1-on-1 coaching sessions
-- Minimum 30 minutes per session
-- Post-training (can't count practice during training)
 
-**What doesn't count:**
-- Group coaching
-- Workshops/teaching
-- Consulting/advising
-- Therapy/counseling
+* One-on-one coaching sessions
+
+* Minimum 30 minutes per session
+
+* Sessions completed after your training (not during)
+
+**What does not count:**
+
+* Group coaching
+
+* Workshops or teaching
+
+* Consulting or advising
+
+* Therapy or counseling
 
 ### 3. Mentor Coaching: 10 Hours
 
-**You need supervision from an experienced coach:**
-- 10 hours total
-- Group or individual
-- Mentor must be ICF credentialed (MCC or PCC)
+You need 10 hours of supervision from an experienced ICF-credentialed coach (PCC or MCC).
 
-**What happens:**
-- You present coaching sessions (audio recording)
-- Mentor gives feedback on ICF competencies
-- Identify strengths, growth areas
-- Improve coaching skills
+Here is what happens: You present recordings of your coaching sessions. Your mentor gives you feedback against the ICF competencies. You identify strengths and growth areas. You get better.
 
-**This is quality control.** ICF wants to ensure you're coaching well, not just logging hours.
+This is ICF's quality control. They want to know you are coaching well, not just logging hours.
 
 ### 4. Performance Evaluation
 
-**Final exam:** Submit recorded coaching session for review.
+You submit a recorded coaching session for review by an ICF-approved assessor. They evaluate you against the 8 Core Competencies.
 
-**ICF assessors evaluate:**
-- Mastery of 8 Core Competencies
-- Coaching presence and skill
-- Ethical practice
+The pass rate is roughly 85% for coaches who have prepared well. If you do not pass, you receive feedback and can resubmit.
 
-**Pass rate:** ~85% for well-prepared coaches
+### 5. ICF Application and Fee
 
-### 5. ICF Application & Fee
+Once you have completed training, hours, mentoring, and your performance evaluation:
 
-**Once you've completed 1-4:**
-- Submit application to ICF
-- Pay credential fee (~$300)
-- Background check
-- Receive ACC credential
+* Submit your application to ICF
 
-**Timeline:** 6-12 months from training start to ACC credential.
+* Pay the credential fee (approximately $300)
 
----
+* Complete a background check
 
-## The Fastest Path: Accredited Training + Built-In Support
+* Receive your ACC credential
 
-**Two approaches:**
+**Typical timeline from training start to ACC:** 8 to 18 months, depending on how quickly you build your client base.
 
-### Approach 1: Piecemeal (Slower, More Expensive)
+***
 
-1. Find ICF-accredited training ($1,500-3,000)
+## Two Paths to ACC: Piecemeal vs. Integrated
+
+You have two ways to get here. One is harder than it needs to be.
+
+### Path 1: Piecemeal (Slower, More Expensive)
+
+1. Find an ICF-accredited training program ($1,500-$3,000)
 2. Complete training
-3. Find clients on your own (hardest part)
-4. Coach 100 hours (6-18 months depending on client pipeline)
-5. Find mentor coach separately ($500-1,500)
+3. Find clients on your own (this is the hardest part)
+4. Coach 100 hours (6-18 months, depending on your pipeline)
+5. Find a mentor coach separately ($500-$1,500)
 6. Complete 10 mentor hours
 7. Submit performance evaluation
 8. Apply for ACC
 
-**Total cost:** $2,500-5,000+  
+**Total cost:** $2,500-$5,000+
 **Timeline:** 12-24 months
 
-### Approach 2: Integrated Program (Faster, More Support)
+You can make this work. But you will spend a lot of time and money figuring out logistics instead of coaching.
 
-**Look for programs that include:**
-- ICF Level 1 accredited training ✅
-- Mentor coaching built-in ✅
-- Client referral network ✅
-- Alumni community for peer support ✅
-- Business tools to launch practice faster ✅
+### Path 2: Integrated Program (Faster, Less Friction)
 
-**Example: CVR Level 1 Training**
-- 80 hours ICF-accredited training
-- 10 hours mentor coaching included
-- Referral network from Day 1
-- Same Page Notes platform (manage clients professionally)
-- Alumni job board (coaching opportunities)
+The smarter approach is a program that bundles everything together: accredited training, mentor coaching, practice tools, and a support community.
 
-**Total cost:** $1,099  
-**Timeline:** 8-12 months (faster client pipeline)
+**Core Values Recovery Coach training is built this way.**
 
-**The difference:** Integrated programs remove friction. You're not figuring out how to get clients while trying to complete hours.
+Here is what is included:
 
----
+* **ICF ACC based training** — designed to prepare you for the ACC credential
 
-## Step-by-Step: How to Get ICF ACC Credential
+* **Recovery specialization** — you learn to coach individuals and families in recovery, not just generic life coaching
 
-### Step 1: Choose ICF-Accredited Training (Weeks 1-20)
+* **50+ AI clients for practice** — simulated coaching scenarios with AI clients who give you real feedback, so you build skill before working with real clients
+
+* **Simulated cases with real trainers** — you work through realistic cases alongside your trainers, learning together instead of memorizing scripts
+
+* **Mentor coaching included** — no hunting for a separate mentor
+
+* **Lifetime weekly support and office hours** — after you graduate, you get weekly support calls and office hours for life, as long as you maintain your credential
+
+* **$2,379 total**
+
+**The difference:** You are not figuring out how to find clients, find a mentor, and find a practice platform while trying to complete your hours. It is all built in.
+
+***
+
+## Step-by-Step: Your Path to ACC
+
+### Step 1: Choose Your Training Program (Weeks 1-20)
 
 **What to look for:**
-- ICF Level 1 or Level 2 accreditation (verify on ICF website)
-- Recovery coaching specialization (if that's your niche)
-- Mentor coaching included (saves time + money)
-- Practice platform or business support (helps you launch faster)
+
+* ICF accreditation (verify on the ICF website, not just the program's marketing)
+
+* Recovery coaching specialization, if that is your niche
+
+* Mentor coaching included (saves time and money)
+
+* Practice support and business tools (helps you launch faster)
 
 **Red flags:**
-- "ICF-aligned" but not accredited (doesn't count)
-- No clear path to 100 coaching hours
-- Generic life coaching (not recovery-specific if that's your focus)
 
-**Timeline:** 20 weeks typical for Level 1 program
+* "ICF-aligned" but not actually accredited (the hours will not count)
 
-### Step 2: Complete Training (Graduate!)
+* No clear path to completing 100 coaching hours
 
-**You'll learn:**
-- ICF 8 Core Competencies
-- Coaching frameworks and models
-- Ethics and professional standards
-- Business basics (pricing, contracts, marketing)
+* Generic life coaching with no recovery-specific content
 
-**Deliverable:** Certificate of completion
+### Step 2: Complete Training
 
-### Step 3: Launch Your Practice (Weeks 20-30)
+During training, you will learn:
 
-**Start coaching immediately post-training:**
+* The ICF 8 Core Competencies
 
-**Client pipeline strategies:**
-- Referrals from training program
-- Treatment center partnerships
-- Therapist referrals
-- Recovery community connections
-- LinkedIn/social media presence
-- Free discovery sessions (convert to paid)
+* Coaching frameworks and models
 
-**Goal:** Get to 5-10 active clients within 2-3 months
+* Ethics and professional standards
 
-**Pricing:** Start at $75-100/session, raise as you gain confidence
+* How to launch and run a practice
+
+At the end, you receive your certificate of completion.
+
+### Step 3: Start Coaching (Weeks 20-30)
+
+This is where many new coaches stall. You have the training. Now you need clients.
+
+**Ways to build your pipeline:**
+
+* Referrals from your training program and alumni network
+
+* Partnerships with treatment centers
+
+* Therapist referral relationships
+
+* Recovery community connections
+
+* Free discovery sessions that convert to paid clients
+
+**Your goal:** Get to 5-10 active clients within 2-3 months of completing training.
+
+**Pricing:** Most new recovery coaches start at $75-$100 per session and raise rates as they gain experience and confidence.
 
 ### Step 4: Log 100 Coaching Hours (Months 6-12)
 
-**If you coach:**
-- 5 clients × 2 sessions/month = 10 hours/month → 100 hours in 10 months
-- 10 clients × 2 sessions/month = 20 hours/month → 100 hours in 5 months
+Here is the math:
 
-**Track meticulously:**
-- Client name, session date, duration
-- Paid vs pro bono
-- ICF provides logging templates
+* 5 clients, 2 sessions per month = 10 hours/month = 100 hours in 10 months
 
-**75 hours MUST be paid.** ICF verifies this.
+* 10 clients, 2 sessions per month = 20 hours/month = 100 hours in 5 months
+
+Track everything carefully: client name, session date, duration, paid versus pro bono. ICF provides logging templates. 75 of your 100 hours must be paid. ICF verifies this.
 
 ### Step 5: Complete Mentor Coaching (Concurrent with Step 4)
 
-**If included in training:** Often done as group sessions during/after training
+If your training program includes mentor coaching, this often happens as group sessions during or after training.
 
-**If separate:** Find ICF mentor coach (search ICF directory)
+If you need to find a mentor separately, search the ICF directory. Expect to pay $50-$150 per hour for 10 hours.
 
-**10 hours total:**
-- Usually 5-10 sessions (1-2 hours each)
-- Present your coaching recordings
-- Receive feedback
-- Improve competency mastery
-
-**Cost if separate:** $50-150/hour
+You will present recordings of your sessions, receive feedback, and sharpen your skills against the ICF competencies.
 
 ### Step 6: Performance Evaluation
 
-**When you're ready (near 100 hours):**
+When you are near 100 hours and feel ready:
 
 1. Record a coaching session (audio)
-2. Submit to ICF-approved assessor
-3. Assessor evaluates against 8 Core Competencies
-4. Pass/fail decision
-5. If fail: receive feedback, resubmit after improvement
+2. Submit it to an ICF-approved assessor
+3. The assessor evaluates you against the 8 Core Competencies
+4. You receive a pass or fail decision
+5. If you do not pass, you get specific feedback and can resubmit
 
-**Prep tip:** Review ICF competencies, practice with mentor beforehand
+**Preparation tip:** Review the competencies with your mentor before submitting. Most coaches who prepare well pass on the first attempt.
 
-### Step 7: Apply for ACC Credential
+### Step 7: Apply for Your ACC Credential
 
-**Submit to ICF:**
-- Proof of accredited training
-- Log of 100 coaching hours (75 paid)
-- Mentor coaching completion certificate
-- Performance evaluation pass
-- Application fee (~$300)
-- Background check
+Submit to ICF:
 
-**ICF reviews:** 4-8 weeks
+* Proof of accredited training completion
 
-**Once approved:** You're ACC-credentialed! 🎉
+* Log of 100 coaching hours (75 paid)
 
----
+* Mentor coaching completion certificate
 
-## How Much Does It Cost?
+* Performance evaluation pass
 
-**Typical costs breakdown:**
+* Application fee (approximately $300)
 
-| Item | Piecemeal Approach | Integrated Approach |
-|------|-------------------|-------------------|
-| ICF Training | $1,500-3,000 | $1,099 (CVR) |
-| Mentor Coaching | $500-1,500 | Included |
-| Business Tools | $500-1,000/year | Included (platform) |
-| Performance Eval | $250 | $250 |
-| ICF Application Fee | $300 | $300 |
-| **Total** | **$3,050-5,050+** | **$1,649** |
+* Background check
 
-**Plus ongoing:**
-- ICF membership: $270/year (optional but valuable)
-- Continuing education: Variable
-- Professional liability insurance: $200-500/year
+ICF reviews applications in 4-8 weeks. Once approved, you are ACC-credentialed.
 
----
+***
+
+## What Does It Cost?
+
+Here is a realistic comparison.
+
+| Item                | Piecemeal Approach | Core Values Recovery Coach |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ICF Training        | $1,500-$3,000      | $2,379                     |
+| Mentor Coaching     | $500-$1,500        | Included                   |
+| AI Practice Clients | N/A                | Included (50+)             |
+| Lifetime Support    | N/A                | Included                   |
+| Business Tools      | $500-$1,000/year   | Included                   |
+| Performance Eval    | $250               | $250                       |
+| ICF Application Fee | $300               | $300                       |
+| **Total**           | **$3,050-$6,050+** | **$1,649**                 |
+
+**Ongoing costs after credentialing:**
+
+* ICF membership: $270/year (optional but valuable)
+
+* Continuing education: varies
+
+* Professional liability insurance: $200-$500/year
+
+***
 
 ## How Long Does It Take?
 
-**Realistic timeline:**
+**Fast track (strong client pipeline):**
 
-**Fast track (ideal conditions):**
-- Training: 20 weeks
-- Build client base: 2 months
-- Complete 100 hours: 5 months (10 clients × 2/month)
-- Mentor coaching: Concurrent
-- Performance eval + application: 2 months
-- **Total: 8-10 months**
+* Training: 20 weeks
 
-**Typical timeline (more common):**
-- Training: 20 weeks
-- Build client base: 3-4 months
-- Complete 100 hours: 8-10 months (slower client ramp)
-- Mentor coaching: Concurrent
-- Performance eval + application: 2 months
-- **Total: 12-18 months**
+* Build client base: 2 months
 
-**Part-time coaches:** 18-24 months (slower pace is fine!)
+* Complete 100 hours: 5 months
 
----
+* Mentor coaching: concurrent
 
-## ICF Core Competencies (What You'll Master)
+* Performance evaluation and application: 2 months
 
-**These 8 competencies define coaching excellence:**
+* **Total: 8-10 months**
 
-1. **Demonstrates Ethical Practice**  
-   Understands coaching ethics, confidentiality, boundaries
+**Typical timeline:**
 
-2. **Embodies a Coaching Mindset**  
-   Remains curious, open, flexible, client-centered
+* Training: 20 weeks
 
-3. **Establishes and Maintains Agreements**  
-   Creates clear coaching partnerships, scope of work
+* Build client base: 3-4 months
 
-4. **Cultivates Trust and Safety**  
-   Builds rapport, creates space for vulnerability
+* Complete 100 hours: 8-10 months
 
-5. **Maintains Presence**  
-   Stays fully attentive, emotionally intelligent, responsive
+* Mentor coaching: concurrent
 
-6. **Listens Actively**  
-   Hears what's said AND unsaid, reflects, deepens awareness
+* Performance evaluation and application: 2 months
 
-7. **Evokes Awareness**  
-   Asks powerful questions, facilitates insights, challenges thinking
+* **Total: 12-18 months**
 
-8. **Facilitates Client Growth**  
-   Supports goal-setting, accountability, action, learning
+**Part-time pace:** 18-24 months. There is nothing wrong with taking longer. The credential is worth the same whether you earn it in 8 months or 24.
 
-**Your training teaches these. Your mentor coaching refines them. Your performance eval proves them.**
+***
 
----
+## The 8 ICF Core Competencies You Will Master
 
-## Recovery Coach Specialization + ICF: Best of Both Worlds
+These define what excellent coaching looks like:
 
-**ICF credential = general coaching competence**  
-**Recovery specialization = niche expertise**
+1. **Demonstrates Ethical Practice** — You understand coaching ethics, confidentiality, and boundaries.
 
-**Combined:** You're a credentialed professional with specialized knowledge.
+2. **Embodies a Coaching Mindset** — You stay curious, open, flexible, and client-centered.
 
-**What this looks like:**
-- ICF training: coaching frameworks, competencies, ethics
-- Recovery specialization: addiction, family systems, recovery capital, evidence-based approaches
-- Result: ICF-credentialed recovery coach
+3. **Establishes and Maintains Agreements** — You create clear coaching partnerships and scope of work.
 
-**Market positioning:** "ICF-certified coach specializing in family recovery"
+4. **Cultivates Trust and Safety** — You build rapport and create space for vulnerability.
 
-**This differentiates you from:**
-- Generic life coaches (no recovery expertise)
-- Uncredentialed recovery coaches (no ICF standard)
+5. **Maintains Presence** — You stay fully attentive, emotionally intelligent, and responsive.
 
----
+6. **Listens Actively** — You hear what is said and what is not said. You reflect and deepen awareness.
+
+7. **Evokes Awareness** — You ask powerful questions, facilitate insights, and challenge thinking.
+
+8. **Facilitates Client Growth** — You support goal-setting, accountability, action, and learning.
+
+Your training teaches these. Your mentor coaching refines them. Your performance evaluation proves them.
+
+***
+
+## Why Recovery Coaching Needs ICF
+
+**ICF credential gives you general coaching competence.** Recovery specialization gives you niche expertise. Together, they make you a credentialed professional with specialized knowledge.
+
+This means you are not a generic life coach trying to work with recovery families. And you are not an uncredentialed recovery coach who cannot demonstrate your training meets an international standard.
+
+You are both. That is what makes you hireable, referable, and trustworthy.
+
+***
 
 ## Common Questions
 
-**Q: Can I get ICF certified without formal training?**  
-A: No. Portfolio path (self-study) was eliminated. You MUST complete ICF-accredited training.
+**Q: Can I get ICF certified without formal training?**
+A: No. The portfolio path (self-study) was eliminated. You must complete ICF-accredited training.
 
-**Q: Does my therapy/counseling degree count toward ICF?**  
-A: No. Therapy training ≠ coaching training. You still need ICF-accredited coach training (but you'll likely progress faster).
+**Q: Does my therapy or counseling degree count toward ICF?**
+A: No. Therapy training is not coaching training. You still need ICF-accredited coach training. But your clinical background will help you progress faster.
 
-**Q: Can I coach while completing my hours?**  
-A: Yes! You start coaching immediately post-training. The 100 hours are coaching real clients.
+**Q: Can I coach while completing my hours?**
+A: Yes. You start coaching real clients immediately after training. The 100 hours are earned by coaching actual people.
 
-**Q: What if I fail the performance evaluation?**  
-A: You get feedback, improve your coaching, and resubmit. Most coaches pass on second attempt.
+**Q: What if I fail the performance evaluation?**
+A: You receive specific feedback, improve your coaching, and resubmit. Most coaches pass on their second attempt.
 
-**Q: Do I need ICF membership to get ACC?**  
-A: No, but membership ($270/year) provides resources, discounts, credibility, community. Most ACC coaches join.
+**Q: Do I need ICF membership to get ACC?**
+A: No. But membership ($270/year) provides resources, discounts, credibility, and community. Most ACC coaches join.
 
-**Q: Can I call myself a coach before ACC credential?**  
-A: Yes! Post-training, you're a coach. The ACC credential enhances credibility but isn't required to practice.
+**Q: Can I call myself a coach before earning ACC?**
+A: Yes. After completing your training, you are a coach. The ACC credential enhances your credibility but is not legally required to practice.
 
-**Q: Is ACC recognized internationally?**  
-A: Yes. ICF is global standard. ACC credential recognized in 150+ countries.
+**Q: Is ACC recognized internationally?**
+A: Yes. ICF is the global standard. The ACC credential is recognized in over 150 countries.
 
----
+***
 
-## Next Steps: Start Your ICF Journey
+## Your Next Step
 
-### Option 1: Research Programs
+You have three options.
 
-**Visit:** [ICF Accredited Program Directory](https://coachingfederation.org/find-a-program)
+### Option 1: Research Programs on Your Own
 
-**Filter for:**
-- Level 1 accredited programs
-- Recovery/addiction specialization (if available)
-- Includes mentor coaching
-- Fits your timeline/budget
+Visit the [ICF Accredited Program Directory](https://coachingfederation.org/find-a-program). Filter for programs with recovery or addiction specialization, included mentor coaching, and a price point that fits your budget.
 
-### Option 2: Consider CVR Level 1 Training
+### Option 2: Look at Core Values Recovery Coach Training
 
-**What you get:**
-- 80 hours ICF Level 1 accredited training
-- 10 hours mentor coaching included
-- Family recovery specialization
-- Complete practice platform (Same Page Notes)
-- Referral network & alumni community
-- $1,099 total
+Here is what you get for $2,379:
 
-**Timeline:** 20 weeks training → 6-12 months to ACC
+* ICF ACC based training designed to prepare you for the ACC credential
 
-[Learn more about CVR training →](/curriculum/)
+* Recovery coaching specialization for individuals and families
 
-### Option 3: Talk to an ICF-Credentialed Coach
+* 50+ AI clients for practice with real feedback
 
-**Get firsthand experience:**
-- Ask about their journey
-- What helped, what was hard
-- How credential impacted their practice
-- Advice for new coaches
+* Simulated cases with real trainers — learning together, not memorizing scripts
+
+* Mentor coaching included
+
+* Lifetime weekly support and office hours (as long as you maintain your credential)
+
+**Timeline:** 20 weeks of training, then 6-12 months to ACC.
+
+[Apply for Next Cohort](/apply/)
+
+### Option 3: Talk to Someone Who Has Done It
+
+If you want to hear what the journey is actually like, reach out. A 15-minute conversation can save you months of uncertainty.
 
 **Free consult with Clay Johnson, PCC:** [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)
 
----
+***
 
-## Final Thoughts: Is ICF Worth It?
+## Is ICF Certification Worth It?
 
-**Short answer: Yes.**
+**Yes.** Here is why.
 
-**Longer answer:**
+The recovery coaching field is growing fast. More families are looking for qualified coaches. More treatment centers are hiring them. More therapists are referring to them.
 
-**ICF credential:**
-- Opens doors (treatment centers, referrals, insurance)
-- Builds trust (families, partners, colleagues)
-- Improves skills (competency framework makes you better)
-- Provides community (global network of coaches)
-- Future-proofs career (field is professionalizing)
+But the field is also getting crowded. The coaches who stand out will be the ones who can prove their training meets an international standard.
 
-**Cost:** $1,500-5,000  
-**Time:** 8-18 months  
-**ROI:** Career-long credibility + higher rates
+ICF certification:
 
-**If you're serious about recovery coaching as a profession (not just a side gig), ICF certification is the path.**
+* Opens doors at treatment centers and referral networks
 
----
+* Builds trust with families who need to know you are qualified
+
+* Makes you better through the competency framework
+
+* Connects you to a global community of coaches
+
+* Positions you for insurance reimbursement as the field evolves
+
+**The cost is $2,379-$5,000 depending on the path you choose.** The timeline is 8-18 months. The return is a career built on credibility.
+
+If you are serious about recovery coaching as a profession, this is the path.
+
+***
 
 <div style="background: var(--primary-navy); color: white; padding: 3rem; text-align: center; margin: 4rem 0;">
 
-## Ready to Start Your ICF Journey?
+## Ready to Start?
 
-**Next CVR Level 1 cohort starts soon.**
+**The next Core Values Recovery Coach cohort is forming now.**
 
-✅ ICF Level 1 Accredited  
-✅ 10 Hours Mentor Coaching Included  
-✅ Family Recovery Specialization  
-✅ Complete Practice Platform  
-✅ $1,099 (vs $1,500-3,000 elsewhere)
+* ICF ACC Based Training
+
+* 50+ AI clients for Practice
+
+* Simulated Cases with Real Trainers
+
+* Lifetime Weekly Support and Office Hours
+
+* Mentor Coaching Included
+
+* $2,379 Total
 
 <a href="/apply/" class="btn btn--large btn--primary" style="margin-top: 2rem;">Apply for Next Cohort</a>
 
 </div>
 
----
+***
 
 **Related Articles:**
-- [Recovery Coach vs Therapist: Key Differences](/blog/recovery-coach-vs-therapist/)
-- [How to Start a Recovery Coaching Practice](/blog/start-recovery-coaching-practice/)
-- [Recovery Coach Salary: What Can You Earn?](/blog/recovery-coach-salary/)
+
+* [Recovery Coach vs Therapist: Key Differences](/blog/recovery-coach-vs-therapist/)
+
+* [How to Start a Recovery Coaching Practice](/blog/start-recovery-coaching-practice/)
+
+* [Recovery Coach Salary: What Can You Earn?](/blog/recovery-coach-salary/)

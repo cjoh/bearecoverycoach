@@ -89,13 +89,17 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Add parallax effect to hero (subtle)
-    const hero = document.querySelector('.hero');
-    if (hero) {
+    // Add parallax effect to hero content (subtle)
+    const heroContent = document.querySelector('.hero-content');
+    if (heroContent) {
         window.addEventListener('scroll', () => {
             const scrolled = window.pageYOffset;
-            const parallaxSpeed = 0.5;
-            hero.style.transform = `translateY(${scrolled * parallaxSpeed}px)`;
+            const heroHeight = heroContent.closest('.hero').offsetHeight;
+            // Only apply parallax while hero is in view
+            if (scrolled < heroHeight) {
+                heroContent.style.transform = `translateY(${scrolled * 0.3}px)`;
+                heroContent.style.opacity = 1 - (scrolled / heroHeight) * 0.5;
+            }
         });
     }
     

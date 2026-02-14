@@ -10,10 +10,26 @@
             <p class="section-subtitle">{{ .Description }}</p>
             {{ end }}
         </header>
-        
+
         <div class="content" style="background: white; padding: 4rem; border-radius: 0; box-shadow: var(--shadow-sm);">
             {{ .Content }}
         </div>
     </div>
 </article>
+
+{{/* StoryBrand CTA - appears on all single pages except Apply */}}
+{{ if ne .File.LogicalName "apply.md" }}
+<section class="section section--navy" style="text-align: center;">
+    <div class="container container--narrow">
+        <h2 style="color: white; margin-bottom: 1rem;">Ready to Become a Recovery Coach?</h2>
+        <p style="color: rgba(255,255,255,0.85); font-size: 1.125rem; max-width: 600px; margin: 0 auto 2rem;">
+            ICF ACC based certification. 50+ AI practice clients. Lifetime weekly support. $2,379.
+        </p>
+        <a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
+        <p style="margin-top: 1.5rem;">
+            <a href="/curriculum/" style="color: rgba(255,255,255,0.7); border-bottom: 1px solid rgba(255,255,255,0.3);">Or explore the full curriculum first →</a>
+        </p>
+    </div>
+</section>
+{{ end }}
 {{ end }}

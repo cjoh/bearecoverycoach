@@ -1,116 +1,149 @@
 ---
-title: "Apply for Next Cohort"
-description: "Apply for ICF-accredited family recovery coach training. Limited to 30 coaches per cohort."
-label: "Application"
+title: "Apply Now - Core Values Recovery Coach Certification"
+description: "Apply for the Core Values Recovery Coach certification. ICF ACC based program. 20 weeks to a new career helping individuals and families in recovery."
+label: "Apply Now"
 ---
 
-## What Happens Next:
+<div style="text-align: center; max-width: 700px; margin: 0 auto 3rem;">
 
-1. Submit application below (5-10 minutes)
-2. We'll review and contact you within 3 business days
-3. Brief phone conversation with Clay (20 minutes)
-4. If accepted, receive enrollment link
-5. Complete payment and secure your spot
-6. Receive welcome packet and cohort schedule
+## You're Ready to Become a Core Values Recovery Coach.
 
----
+You've seen the need. You've felt the calling. You know that individuals and families in recovery deserve better support than what's available today.
+
+**This is the step that changes everything.**
+
+</div>
+
+***
+
+## The Transformation You're Choosing
+
+In 20 weeks, you'll go from where you are now to a credentialed **Core Values Recovery Coach** with:
+
+* **50+ AI practice clients** who give you real feedback on your skills
+
+* **A proven coaching methodology** built through simulated cases with trainers, not rote scripts
+
+* **An ICF ACC based credential** that earns trust from clients, treatment centers, and referral partners
+
+* **Lifetime weekly support** and office hours for as long as you maintain your credential
+
+* **The confidence** to charge professional rates and build a sustainable practice
+
+This isn't just a certificate on a wall. It's a complete professional identity.
+
+***
+
+## Your 3-Step Path to Getting Started
+
+### Step 1: Apply (5 Minutes)
+
+Fill out the short form below. Tell us about yourself and why recovery coaching matters to you. No essays, no trick questions.
+
+### Step 2: Interview (Get to Know Each Other)
+
+We'll schedule a brief conversation with Clay. This isn't a test. It's a chance for us to learn about your goals and for you to ask questions. We want to make sure this is the right fit for both of us.
+
+### Step 3: Start Training
+
+Secure your spot, receive your welcome packet, and join your cohort. You'll begin working with trainers on simulated cases from day one.
+
+***
 
 <form action="/submit-application" method="POST" class="application-form" style="max-width: 700px; margin: 0 auto;">
-    
-### Personal Information
 
-**Full Name** <span style="color: #ff6b5a;">*</span>  
+### Tell Us About You
+
+**Your Name** <span style="color: #ff6b5a;">*
 <input type="text" name="full-name" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
 
-**Email Address** <span style="color: #ff6b5a;">*</span>  
+**Email Address** <span style="color: #ff6b5a;">*
 <input type="email" name="email" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
 
-**Phone Number** <span style="color: #ff6b5a;">*</span>  
+**Phone Number** <span style="color: #ff6b5a;">*
 <input type="tel" name="phone" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
 
-**City, State** <span style="color: #ff6b5a;">*</span>  
-<input type="text" name="location" placeholder="e.g., Salt Lake City, UT" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
+**Your Background and Experience**
 
-### Background
+<textarea name="background" rows="5" placeholder="Tell us a bit about yourself: your experience with recovery (personal, professional, or family), what you do now, and anything else you'd like us to know." style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;"></textarea>
 
-**Tell us about your background** <span style="color: #ff6b5a;">*</span>  
-<textarea name="background" rows="6" required placeholder="Your experience with recovery (personal, professional, or family), current role, why you're interested in recovery coaching..." style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 0.5rem;"></textarea>
-<small style="color: var(--text-light); display: block; margin-bottom: 1.5rem;">Help us understand your journey and what brings you here.</small>
+**Why Recovery Coaching?** <span style="color: #ff6b5a;">*
 
-**Do you have any coaching experience?**  
-<select name="coaching-experience" style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
-    <option value="">Select one...</option>
-    <option value="none">No coaching experience</option>
-    <option value="informal">Informal coaching (mentoring, sponsoring)</option>
-    <option value="some">Some professional coaching experience</option>
-    <option value="significant">Significant coaching experience</option>
-    <option value="certified">Already certified coach</option>
-</select>
-
-**Current Professional Status** <span style="color: #ff6b5a;">*</span>  
-<select name="professional-status" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
-    <option value="">Select one...</option>
-    <option value="in-recovery">Person in recovery (considering coaching career)</option>
-    <option value="therapist">Licensed therapist/counselor</option>
-    <option value="treatment-staff">Treatment center staff</option>
-    <option value="current-coach">Current recovery coach (seeking credential)</option>
-    <option value="interventionist">Interventionist</option>
-    <option value="social-worker">Social worker</option>
-    <option value="other">Other</option>
-</select>
-
-### Goals & Commitment
-
-**What are your goals for this training?** <span style="color: #ff6b5a;">*</span>  
-<textarea name="goals" rows="4" required placeholder="e.g., Start private practice, add coaching to therapy practice, help families professionally, pursue ICF credential..." style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;"></textarea>
-
-**Can you commit 4-6 hours/week for 20 weeks?** <span style="color: #ff6b5a;">*</span>  
-<select name="time-commitment" required style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
-    <option value="">Select one...</option>
-    <option value="yes">Yes, I can commit that time</option>
-    <option value="mostly">Mostly yes, with some flexibility needed</option>
-    <option value="unsure">Unsure, need more details</option>
-    <option value="difficult">That would be difficult for me</option>
-</select>
-
-**Are you prepared for the $1,099 investment?**  
-<select name="investment" style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
-    <option value="">Select one...</option>
-    <option value="yes-full">Yes, full payment</option>
-    <option value="yes-payment-plan">Yes, would use payment plan</option>
-    <option value="need-more-info">Need more information</option>
-    <option value="looking-for-financing">Looking for financing options</option>
-</select>
-
-### Additional Information
-
-**How did you hear about Be A Recovery Coach?**  
-<select name="referral-source" style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 1.5rem;">
-    <option value="">Select one...</option>
-    <option value="google">Google search</option>
-    <option value="linkedin">LinkedIn</option>
-    <option value="facebook">Facebook/Instagram</option>
-    <option value="referral">Referred by someone</option>
-    <option value="treatment-center">Treatment center</option>
-    <option value="icf">ICF website/directory</option>
-    <option value="other">Other</option>
-</select>
-
-**Any questions or additional information?**  
-<textarea name="questions" rows="4" placeholder="Anything else we should know or questions you have..." style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 2rem;"></textarea>
+<textarea name="why-coaching" rows="4" required placeholder="What draws you to recovery coaching? What would it mean to you to help individuals and families in recovery?" style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 2rem;"></textarea>
 
 <div style="text-align: center;">
-    <button type="submit" class="btn btn--large btn--primary">Submit Application</button>
-    <p style="margin-top: 1rem; font-size: 0.9375rem; color: var(--text-light);">We'll review your application and respond within 3 business days.</p>
+    <button type="submit" class="btn btn--large btn--primary">Submit My Application</button>
+    <p style="margin-top: 1rem; font-size: 0.9375rem; color: var(--text-light);">We'll be in touch within 3 business days to schedule your interview.</p>
 </div>
 
 </form>
 
----
+***
+
+## Not Sure If You're Ready?
+
+**That's completely normal.** Every coach in our program felt the same way before they applied. Here's what we hear most:
+
+### "I don't have enough experience."
+
+You don't need clinical credentials or years of professional coaching. Many of our strongest graduates come from lived recovery experience, family recovery, or adjacent fields. The program teaches you everything you need. That's the point.
+
+### "I'm not sure I can afford it."
+
+The full program is **$2,379**. Payment plans are available. Compare that to a graduate degree ($60,000+) or other certification programs that don't include AI practice tools, lifetime support, or an ICF ACC based pathway.
+
+### "What if I'm not good at coaching?"
+
+That's exactly what the 50+ AI clients are for. You'll practice with simulated clients who give you honest, real-time feedback. You'll work through cases with your trainers. By graduation, you'll have more practice hours than most new coaches get in their first year.
+
+### "I don't know if now is the right time."
+
+There's never a perfect time. But there are 23 million Americans in recovery, and millions of families affected by addiction, who need qualified coaches right now. The demand isn't slowing down.
+
+***
+
+## Frequently Asked Questions
+
+**How long does the application take?**
+About 5 minutes. It's a simple form, not an entrance exam.
+
+**What happens after I apply?**
+We'll review your application and reach out within 3 business days to schedule a brief interview with Clay.
+
+**Are there prerequisites?**
+No specific degrees or certifications required. We look for people with a genuine connection to recovery (personal, family, or professional) and a commitment to doing the work.
+
+**What's the time commitment during training?**
+Plan for 4-6 hours per week over 20 weeks. This includes live sessions, practice with AI clients, and work on simulated cases with your trainers.
+
+**When does the next cohort start?**
+Cohort dates are shared during your interview. Space is limited to ensure quality training.
+
+**What's included in the $2,379?**
+The complete 20-week Core Values Recovery Coach certification program, access to 50+ AI practice clients, all training materials, basics of intervention techniques, and lifetime weekly support and office hours for as long as you maintain your credential.
+
+**Is this an ICF certification?**
+The Core Values Recovery Coach program is an ICF ACC based program. It provides the training foundation for pursuing your ICF ACC credential.
+
+***
+
+<div style="background: var(--bg-cream); padding: 3rem; margin: 3rem 0; text-align: center;">
+
+## Picture This: 20 Weeks From Now
+
+You're a credentialed **Core Values Recovery Coach**. You've practiced with 50+ AI clients who pushed you to get better. You've worked through dozens of simulated cases with your trainers. You have professional tools, an ICF ACC based credential pathway, and a community of fellow coaches who show up for weekly support calls.
+
+You're ready to help individuals and families in recovery build the lives they deserve.
+
+**The only thing between you and that future is the form above.**
+
+</div>
+
+***
 
 ## Questions Before Applying?
 
 We're happy to talk through whether this program is right for you.
 
-**Email:** [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)  
+**Email:** [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)
 **Phone:** [(833) 594-7146](tel:8335947146)

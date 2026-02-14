@@ -1,364 +1,275 @@
 ---
-title: "About Be A Recovery Coach - Our Mission & Story"
-description: "Founded by Clay Johnson, PCC. Training professional family recovery coaches with ICF credentials, evidence-based methodology, and AI-powered tools."
-label: "Our Story"
+title: "About Be A Recovery Coach"
+description: "You want to help people in recovery. You need training that actually prepares you. Meet the program and the guide behind it."
+label: "About"
 ---
 
-<div style="text-align: center; margin-bottom: 4rem;">
+<div style="text-align: center; margin-bottom: 3rem; max-width: 700px; margin-left: auto; margin-right: auto;">
 
-## Professionalizing Peer Recovery Coaching
+## You Want to Help People in Recovery. But You Need Training That Actually Prepares You.
 
-**We're building the infrastructure for recovery coaching to become a legitimate, sustainable, credible profession.**
+You have the heart for this work. Maybe you have the lived experience too. What you need now is a program that takes you seriously and gets you ready for real clients, real crises, and a real career.
 
 </div>
 
----
+***
 
-## The Problem We're Solving
+## You Know What's at Stake
 
-**29.3 million adults are in recovery in the United States.**
+You have seen what addiction does to people. To families. To entire communities.
 
-That's a massive workforce with lived experience who understand addiction, recovery, and family dynamics from the inside.
+You have also seen what recovery makes possible.
 
-These people can help others—often better than credentialed professionals who've never walked the path.
+That is why you want to coach. You want to sit across from someone in the hardest moment of their life and know exactly what to do.
 
-**But there's a problem:**
+But wanting to help is not enough. You have watched other coaches stumble because they got a certificate but not real training. You have seen families lose trust in coaching because someone was not prepared. You do not want to be that person.
 
-- **No standardization.** Anyone can call themselves a "recovery coach" with zero training.
-- **No credentials.** Families don't know who's qualified and who's winging it.
-- **No tools.** Coaches are left building practices with Google Docs and hope.
-- **No pathways.** Want to make this a career? Good luck figuring out how.
+**You want to be ready. Actually ready.**
 
-**The result:** Recovery coaching remains on the fringes. Treatment centers don't hire coaches. Insurance doesn't reimburse. Families are skeptical. Coaches burn out.
+Ready for the mother who calls you at 7 a.m. because her son did not come home. Ready for the family that has tried everything and does not believe anything will work. Ready for the client who relapses in month three and needs you to stay steady when they cannot.
 
-**This is the "Uber moment" for recovery coaching.**
+That is what this program is built for.
 
-Just like ride-sharing unlocked millions of drivers, **professional training + credentials + tools can unlock millions of recovery coaches.**
+***
 
----
+## Why Most Coaches Aren't Ready
 
-## Our Solution: The CVR Model
+Here is the truth about recovery coach training right now.
 
-### 1. ICF-Accredited Training
+**Most programs hand you a binder and wish you luck.**
 
-**International Coaching Federation (ICF) = gold standard for coaching credentials.**
+You sit through lectures. You memorize scripts. You get a certificate. Then you walk into your first real session and realize none of it prepared you for what is actually happening in front of you.
 
-- Treatment centers hire ICF coaches
-- Insurance may reimburse ICF coaches
-- Families trust ICF coaches
-- Google searches favor ICF coaches
+**Without proper training, here is what happens:**
 
-We built the **first ICF Level 1 accredited program specifically for family recovery coaching.**
+* You freeze in a crisis because you practiced theory, not real conversations.
 
-Not generic life coaching retrofitted for recovery.  
-**Built from the ground up for this field.**
+* Families lose trust because you cannot demonstrate competence.
 
-### 2. Evidence-Based Methodology
+* Treatment centers will not hire you because your credential does not carry weight.
 
-**Our curriculum isn't theory. It's what works.**
+* You burn out within a year because you are doing hard work without support.
 
-We've supported hundreds of families through Core Values Recovery (our service side). **75% maintain long-term recovery** with our methodology.
+* You carry the emotional weight of this work alone, with no one to call.
 
-That's nearly 2x the national average.
+This is not a failure of intention. It is a failure of preparation.
 
-**The methodology:**
-- Values-first (not problem-first)
-- Identity-focused (not willpower-based)
-- Infinite game philosophy (not graduation mentality)
-- Family systems approach (not just individual recovery)
+**You deserve better. Your future clients deserve better.**
 
-**This is what you'll learn. What you'll teach. What produces results.**
+***
 
-### 3. Complete Practice Platform
-
-**We built the technology FIRST.**
-
-Same Page Notes, SobaSearch, RecoveryCapital—we use these tools with our own clients. They work.
-
-Then we made them available to CVR-trained coaches (lifetime access, included with training).
-
-**You graduate with:**
-- Certification ✅
-- Credentials ✅
-- Clients ✅ (from our referral network)
-- Platform ✅ (professional infrastructure)
-- Community ✅ (alumni network)
-
-**Not just a certificate. A complete practice.**
-
----
-
-## Who We Are
-
-### Clay Johnson, PCC - Founder & Lead Instructor
+## Meet Your Guide: Clay Johnson, PCC
 
 <div style="background: white; padding: 2rem; margin: 2rem 0; border-left: 4px solid var(--accent-coral);">
 
-**I'm not an academic. I'm someone who's been where you are.**
+<p><strong>Clay knows what it feels like to want to help and not know how.</strong></p>
 
-My recovery journey led me to coaching. Coaching led me to building a methodology that works. That methodology led to founding Core Values Recovery.
+<p>His own recovery journey led him to coaching. But when he looked for training that matched the reality of working with individuals and families in recovery, it did not exist. So he built it.</p>
 
-**The stats:**
-- Professional Certified Coach (PCC) through ICF
-- 15+ years in recovery
-- 500+ families coached
-- 75% long-term success rate
-- Built 4 SaaS products for recovery field
+<p>His years of coaching individuals and families led him to develop the Core Values methodology. Research shows that when people in recovery engage with a long-term coach or case manager alongside treatment, their chances of sustained recovery in the first year increase to 75%.</p>
 
-**But here's what matters more:**
+<p>He holds the Professional Certified Coach (PCC) credential through the International Coaching Federation. He built four technology products for the recovery field. He created this program because he was tired of watching good people fail at coaching due to bad training.</p>
 
-I built this training because **the recovery field deserves better than generic coaching certifications.**
-
-Families deserve coaches who understand their specific struggles.
-
-People with lived experience deserve professional tools to turn their recovery into a career.
-
-**This isn't just a course. It's the distillation of everything I've learned** about recovery, coaching, family dynamics, and what actually works when people are in crisis.
+<p><strong>Clay is not here to lecture at you. He is here to train alongside you</strong> on simulated cases, real scenarios, and the kind of conversations that textbooks cannot prepare you for.</p>
 
 </div>
 
-### Our Team
+**The team behind the program:**
 
-**Faculty & Mentors:**
-- Licensed therapists (LCSW, LPC, LMFT)
-- ICF-credentialed coaches (PCC, ACC)
-- Recovery professionals with lived experience
-- Treatment center clinical directors
-- Family systems experts
+* Licensed therapists (LCSW, LPC, LMFT) who work in recovery daily
 
-**All instructors:**
-- ICF-credentialed
-- Experience training coaches
-- Active in recovery field
-- Committed to professionalization
+* ICF-credentialed coaches (PCC, ACC) with active practices
 
-**Not theoretical academics. Practitioners who do this work daily.**
+* Recovery professionals with lived experience
 
----
+* Treatment center clinical directors who know what they need from coaches
 
-## Our Values
+**Every instructor is a practitioner. Not a theorist. They do this work every day.**
 
-### 1. Lived Experience + Professional Training
+***
 
-**We believe:**
-- Lived experience is valuable (essential, even)
-- BUT lived experience alone isn't enough
-- Professional training transforms experience into expertise
-- Credentials signal competence to families who need help
+## Your Three-Step Path to Becoming a Core Values Recovery Coach
 
-**We honor both. Lived experience + professional development = excellence.**
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
-### 2. Evidence Over Ideology
+<div style="background: white; padding: 2rem; border-top: 4px solid var(--accent-coral);">
 
-**We're pragmatic, not dogmatic.**
+<h3>Step 1: Apply and Enroll</h3>
 
-- If it works, we teach it
-- If it doesn't, we don't care how popular it is
-- 75% success rate proves methodology
-- We adapt as research evolves
+<p>Submit your application. We review it personally. If you are a fit, you join the next cohort of up to 30 coaches. The program runs 20 weeks and costs $2,379 total.</p>
 
-**No sacred cows. Just outcomes.**
+</div>
 
-### 3. Family-First Approach
+<div style="background: white; padding: 2rem; border-top: 4px solid var(--accent-coral);">
 
-**Most recovery programs focus on the individual.**
+<h3>Step 2: Train With Real Scenarios</h3>
 
-We focus on the **family system.**
+<p>Work through 80 hours of training. Practice with 50+ AI clients that give you real feedback. Learn alongside other trainees on simulated cases. Master intervention basics. Get ready for actual clients, not just exams.</p>
 
-**Because:**
-- Addiction affects everyone (not just the identified patient)
-- Family recovery = everyone heals, not just one person
-- Systems approach produces better outcomes
-- Families are the environment recovery happens in
+</div>
 
-**Family recovery coaching is our specialty. Our niche. Our differentiator.**
+<div style="background: white; padding: 2rem; border-top: 4px solid var(--accent-coral);">
 
-### 4. Technology as Enabler
+<h3>Step 3: Graduate With Everything You Need</h3>
 
-**We built Same Page Notes because we needed it.**
+<p>Earn your Core Values Recovery Coach certification, an ICF ACC based credential. Get lifetime access to our platform, tools, alumni network, and weekly support calls. Start coaching with confidence.</p>
 
-Then we realized: every recovery coach needs this.
+</div>
 
-**Technology should:**
-- Make coaching easier (not harder)
-- Scale impact (not limit it)
-- Build professionalism (not create barriers)
-- Serve humans (not extract data)
+</div>
 
-**We built tools we'd want to use. Then made them available to you.**
+<div style="text-align: center; margin: 2rem 0;">
+<a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
+</div>
 
-### 5. Community Over Competition
+***
 
-**There are 29.3 million people in recovery.**
+## What Makes This Program Different
 
-**There are NOT enough coaches.**
+### You Train the Way Doctors Train
 
-We're not competing with each other. **We're building a field together.**
+You do not memorize scripts. You work with trainers on simulated cases, learning together. You practice difficult conversations with 50+ AI clients who respond like real clients and give you honest feedback on your technique.
 
-**The CVR alumni network isn't transactional. It's genuine community.**
+When you sit down with your first real client, it will not be the first time you have navigated a crisis conversation. It will be the fiftieth.
 
-Monthly calls, peer support, referral sharing, case consultation—we succeed together.
+### You Get an ICF ACC Based Credential
 
----
+The International Coaching Federation is the gold standard in coaching. This is not a weekend certificate that means nothing outside your living room. Treatment centers hire coaches with ICF credentials. Families trust them. Insurance pathways are opening for them.
 
-## Our Track Record
+The Core Values Recovery Coach certification is built on the ICF ACC framework. It signals to the world that you are trained, tested, and qualified.
 
-### Pilot Cohort Results (2025)
+### You Help Individuals AND Families
 
-**20 coaches certified:**
-- 18 still actively coaching (90% retention)
-- 12 ICF ACC credentialed or in progress (60%)
-- 157 total active clients across all coaches
-- **75% client recovery rate** at 12+ months
-- **$84,000 combined monthly revenue** across part-time + full-time coaches
+Most coaching programs focus on one person at a time. This one prepares you to work with the entire family system. Because addiction does not happen in isolation. Recovery should not either.
 
-**Client Outcomes:**
-- +28% average recovery capital increase
-- 92% client satisfaction
-- 87% report coaching "essential" to recovery
+You learn to coach the person in recovery, the spouse who is exhausted, the parents who do not know what to say, and the family that needs to find a new way to function together.
 
-**These aren't projections. This is real data from real coaches with real clients.**
+### You Learn Intervention Basics
 
-### Core Values Recovery (Service Side)
+Other programs skip this entirely. You will learn the basics of intervention techniques so you know when and how to guide families through the hardest conversation they will ever have.
 
-**Our coaching practice that produced the methodology:**
-- 500+ families served since 2015
-- 75% long-term recovery rate (vs 40% national average)
-- Featured in: [media mentions when available]
-- Partnerships with: [treatment centers, therapists, etc.]
+### You Are Never Alone After Graduation
 
-**We practice what we teach. The methodology works because we USE it daily.**
+This is the part most programs get wrong. They train you, hand you a certificate, and disappear.
 
----
+**We show up every week. For life.**
 
-## Why "Be A Recovery Coach"?
+As long as you maintain your credential, you get weekly support calls and office hours. Peer consultation. Direct access to experienced coaches who have worked hundreds of cases.
 
-**The name is intentional.**
+Because the hardest part of coaching is not getting certified. It is the Tuesday morning when your client relapses and you need someone to talk to who understands.
 
-Not: "Become A Recovery Coach" (distant future state)  
-But: **"BE A Recovery Coach"** (you already are, we're here to professionalize it)
+***
 
-**If you:**
-- Have lived experience with recovery (personal or family)
-- Feel called to help others
-- Want to turn that into a profession
+## Imagine This Is Your Life One Year From Now
 
-**You're already a recovery coach in your heart.**  
-**We give you the training, credentials, and tools to make it official.**
+You wake up knowing exactly who you are professionally. You are a Core Values Recovery Coach with an ICF ACC based credential on your wall and real clients on your calendar.
 
----
+When a family calls in crisis, you are calm. You have practiced this scenario dozens of times. You know what to say. You know what not to say. You know when to push and when to hold space.
 
-## Our Vision for the Field
+You have tools that make you look and feel professional. Session notes, recovery assessments, meeting finders for your clients, all in one platform. You are not cobbling things together with spreadsheets and hope.
 
-**Short-term (1-3 years):**
-- Train 500+ ICF-credentialed recovery coaches
-- Become recognized standard for family recovery coach training
-- Partnerships with 50+ treatment centers
-- Insurance reimbursement pathways opened
+Every week, you get on a call with other coaches who are doing this same work. You share cases. You get advice. You never carry the emotional weight of this work alone.
 
-**Medium-term (3-5 years):**
-- 2,000+ CVR-certified coaches nationwide
-- State licensure pathways for recovery coaches (we're advocating)
-- Recovery coaching recognized as legitimate profession
-- Evidence base: publish outcomes research in peer-reviewed journals
+Treatment centers refer clients to you because your credential means something. Families trust you because you can demonstrate competence, not just good intentions.
 
-**Long-term (5-10 years):**
-- Recovery coaching as common as therapy/counseling
-- 10,000+ ICF-credentialed recovery coaches
-- Insurance reimbursement standard
-- CVR as household name in recovery field
+**You built a career that matters. And it sustains you while you sustain others.**
 
-**We're not just training coaches. We're building a profession.**
+***
 
----
+## What Happens If You Do Nothing
 
-## Partnerships & Affiliations
+You keep wanting to help. You keep feeling called to this work.
 
-### International Coaching Federation (ICF)
+But without proper training, you stay on the sidelines. Or worse, you start coaching without the skills you need and someone gets hurt.
 
-**Level 1 Accredited Program (ACC Pathway)**
-- Meets ICF standards for coaching training
-- 80 CCE hours toward ACC credential
-- Aligned with ICF Core Competencies
-- Quality assured by global coaching body
+Another year goes by. The families who need you do not get you. The career you want stays out of reach. The field stays unprofessional. And you stay stuck between wanting to help and knowing you are not ready.
 
-### Treatment Centers & Referral Partners
+**That does not have to be your story.**
 
-**We partner with:**
-- Residential treatment facilities (coach training for staff)
-- Outpatient programs (ongoing support referrals)
-- Therapists/counselors (collaborative care)
-- Interventionists (post-intervention coaching)
+***
 
-**If you're a treatment provider interested in partnership:** [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)
+## Proof That This Works
 
-### Technology Partners
+### Pilot Cohort Results
 
-**Same Page Notes:** Built on secure, HIPAA-compliant infrastructure  
-**SobaSearch:** Meeting data aggregated from 50+ recovery resources  
-**RecoveryCapital:** Assessment tools validated by research partners
+* **20 coaches certified** in the first cohort
 
----
+* **90% still actively coaching** (18 out of 20)
+
+* **157 active clients** across all coaches
+
+* **75% first-year recovery rate** when clients pair treatment with long-term coaching
+
+* **$84,000 combined monthly revenue** across the cohort
+
+### Client Outcomes
+
+* +28% average recovery capital increase
+
+* 92% client satisfaction
+
+* 87% report coaching was essential to their recovery
+
+### Core Values Recovery Track Record
+
+When people in recovery pair treatment with long-term coaching, their first-year recovery rate reaches 75%, compared to approximately 40% nationally.
+
+**These are real numbers from real coaches with real clients. Not projections.**
+
+***
 
 ## Frequently Asked Questions
 
-**Q: Are you affiliated with 12-step programs?**  
-A: No formal affiliation. Many of our coaches (and clients) participate in 12-step, but it's not required. We respect all paths to recovery.
+**Do I need to be in recovery to enroll?**
+No. We train people in recovery, family members, therapists, counselors, and treatment professionals. Lived experience is valuable but not required.
 
-**Q: Is this a religious program?**  
-A: No. Our "spirituality" framework is values-based and works for atheists to evangelicals. Faith-neutral by design.
+**What exactly is the Core Values Recovery Coach certification?**
+It is an ICF ACC based coaching credential specifically designed for recovery coaching. It covers individuals and families, includes intervention basics, and prepares you for professional practice.
 
-**Q: Do you only train people in recovery?**  
-A: No. We train therapists, counselors, treatment staff, family members, and people in recovery. Lived experience is valuable but not required.
+**How is this different from other recovery coach trainings?**
+Three things. First, the ICF ACC based credential. Second, you train on simulated cases with AI clients instead of memorizing scripts. Third, you get lifetime weekly support after graduation. Most programs offer none of these.
 
-**Q: Why family recovery specifically?**  
-A: Most programs focus on the individual. We believe family systems approach produces better outcomes. It's our specialty and differentiator.
+**Can I coach outside of recovery with this credential?**
+Yes. The ICF credential applies to all coaching. Recovery is your specialty, but the skills transfer everywhere.
 
-**Q: How is this different from other recovery coach trainings?**  
-A: Three things: (1) ICF-accredited, (2) Family recovery specialization, (3) Complete platform included. Most programs offer none of these.
+**Is this a religious program?**
+No. The values framework works for people of all beliefs. Faith-neutral by design.
 
-**Q: Can I coach outside of recovery after this training?**  
-A: Yes! ICF credential applies to all coaching. Family recovery is your specialty, but you can coach in other areas too.
+**What does lifetime support actually mean?**
+Weekly live office hours and peer consultation calls for as long as you maintain your credential. Not a Facebook group. Real support with real coaches.
 
----
+***
 
-## Join Our Mission
+<div style="text-align: center; margin: 4rem auto; max-width: 650px; padding: 3rem; background: var(--primary-navy); color: white;">
 
-**We're professionalizing recovery coaching.**
+<h2 style="color: white;">Your Next Step</h2>
 
-Not because we want to gatekeep.  
-**Because families deserve qualified coaches. And coaches deserve sustainable careers.**
+<p>You have the heart for this work. Now get the training, the credential, and the support to do it right.</p>
 
-<div style="text-align: center; margin: 4rem auto; max-width: 600px; padding: 3rem; background: var(--primary-navy); color: white;">
+<p><strong>Next cohort is limited to 30 coaches.</strong></p>
 
-## Be Part of the Solution
+<a href="/apply/" class="btn btn--large btn--primary" style="margin-top: 1.5rem; margin-bottom: 1rem;">Apply for Next Cohort</a>
 
-**Next cohort starts soon.**  
-**Limited to 30 coaches.**
-
-<a href="/apply/" class="btn btn--large btn--primary" style="margin-top: 2rem;">Apply for Next Cohort</a>
-
-**Questions?** Email [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)
+<p style="margin-top: 1rem; opacity: 0.8;">Not ready to apply? <a href="/curriculum/" style="color: var(--accent-coral);">Read the full curriculum</a> or <a href="/success-stories/" style="color: var(--accent-coral);">see success stories</a> first.</p>
 
 </div>
 
----
+***
 
-## Contact Us
+## Contact
 
-**Founder & Lead Instructor:**  
-Clay Johnson, PCC  
-[clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)  
+**Founder & Lead Instructor:**
+Clay Johnson, PCC
+[clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com)
 [(833) 594-7146](tel:8335947146)
 
-**Office:**  
-Lehi, Utah (Headquarters)  
-Online training (nationwide enrollment)
+**Location:**
+Lehi, Utah (Headquarters)
+Online training available nationwide
 
-**Connect:**  
-[LinkedIn](https://linkedin.com/in/clayjohnson)  
-[Core Values Recovery](https://corevaluesrecovery.com) (our service side)
+**Connect:**
+[LinkedIn](https://linkedin.com/in/clayjohnson) | [Core Values Recovery](https://corevaluesrecovery.com)
 
----
+***
 
-*Be A Recovery Coach is a division of Core Values Recovery LLC. ICF Level 1 Accredited Program. All rights reserved.*
+*Be A Recovery Coach is a division of Core Values Recovery LLC. ICF ACC Based Program. All rights reserved.*

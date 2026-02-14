@@ -4,18 +4,18 @@
 <section class="hero">
     <div class="container">
         <div class="hero-content">
-            <span class="hero-label">ICF Level 1 Accredited Program</span>
-            <h1>Become an ICF-Certified Family Recovery Coach in 20 Weeks</h1>
-            <p class="hero-subtitle">75% Success Rate Curriculum + AI-Powered Platform + Professional Certification</p>
-            
+            <span class="hero-label">ICF ACC Based Program</span>
+            <h1>The Recovery Coaching Credential That Actually Prepares You for Real Clients</h1>
+            <p class="hero-subtitle">Most certifications hand you a binder and wish you luck. This one trains you with 50+ AI practice clients, simulated cases, and lifetime weekly support so you're ready on day one.</p>
+
             <div class="hero-stats">
                 <div class="stat">
                     <div class="stat-number">{{ .Site.Params.hours }}</div>
                     <div class="stat-label">Training Hours</div>
                 </div>
                 <div class="stat">
-                    <div class="stat-number">{{ .Site.Params.price }}</div>
-                    <div class="stat-label">Total Investment</div>
+                    <div class="stat-number">{{ .Site.Params.aiCoaches }}</div>
+                    <div class="stat-label">AI Practice Clients</div>
                 </div>
                 <div class="stat">
                     <div class="stat-number">{{ .Site.Params.weeks }}</div>
@@ -26,93 +26,159 @@
                     <div class="stat-label">Success Rate</div>
                 </div>
             </div>
-            
+
             <div class="hero-cta">
                 <a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
-                <a href="#opportunity" class="btn btn--large btn--secondary">Learn More</a>
-            </div>
-            
-            <div class="hero-trust">
-                <p>✓ Includes lifetime platform access ($500/year value)</p>
-                <p>✓ 10 hours mentor coaching included</p>
-                <p>✓ 20 coaches certified in pilot cohort</p>
+                <a href="#difference" class="btn btn--large btn--secondary" style="color: white; border-color: white;">See What's Different</a>
             </div>
         </div>
     </div>
 </section>
 
-<!-- The Opportunity -->
-<section class="section section--cream" id="opportunity">
+<!-- The Problem / Opportunity -->
+<section class="section section--cream" id="difference">
     <div class="container">
         <div class="section-header">
-            <div class="section-label">The Opportunity</div>
-            <h2>29.3 Million Adults in Recovery.<br>The Recovery Coaching Workforce is Just Getting Started.</h2>
-            <p class="section-subtitle">This is the "Uber moment" for recovery coaching. People with lived experience can help others without needing a master's degree—if they have the right training, tools, and credentials.</p>
+            <div class="section-label">The Problem</div>
+            <h2>29.3 Million Adults Are in Recovery. Most Coaches Aren't Ready to Help Them.</h2>
+            <p class="section-subtitle">Traditional certifications teach theory. But the person sitting across from you isn't a textbook. They're a mother who just found pills in her son's backpack. A husband watching his wife disappear. Someone who's been sober for six months and doesn't know what to do with the rage. You need more than theory for that.</p>
         </div>
-        
+
         <div class="grid grid--3">
             <div class="card">
                 <div class="card-content">
                     <div class="card-icon">🎓</div>
-                    <h3 class="card-title">Professional Credentialing</h3>
-                    <p>ICF Level 1 (ACC) pathway gives you legitimacy. Families trust certified coaches. Treatment centers hire certified coaches. Insurance may cover certified coaches.</p>
+                    <h3 class="card-title">An ICF ACC Based Credential</h3>
+                    <p>Not a weekend certificate. The Core Values Recovery Coach certification is built on the ICF ACC framework. Treatment centers hire you. Families trust you. You carry a credential that means something.</p>
                 </div>
             </div>
-            
+
             <div class="card">
                 <div class="card-content">
-                    <div class="card-icon">🧠</div>
-                    <h3 class="card-title">Evidence-Based Methodology</h3>
-                    <p>Our curriculum isn't theory. It's the methodology that produces 75% long-term success rates with real families. You'll learn what actually works.</p>
+                    <div class="card-icon">🤖</div>
+                    <h3 class="card-title">50+ AI clients. Real Feedback.</h3>
+                    <p>Practice difficult conversations before you have them for real. Our AI clients simulate resistant clients, family conflicts, crisis moments, and intervention scenarios. They don't just respond. They evaluate your technique and tell you what to improve.</p>
                 </div>
             </div>
-            
+
             <div class="card">
                 <div class="card-content">
-                    <div class="card-icon">🛠️</div>
-                    <h3 class="card-title">Complete Practice Platform</h3>
-                    <p>You don't just get a certificate. You get AI-powered tools to run your practice: case management, scheduling, client assessments, and meeting finders.</p>
+                    <div class="card-icon">🔄</div>
+                    <h3 class="card-title">Simulated Cases, Not Scripts</h3>
+                    <p>You work alongside other trainees on realistic case studies. The same way doctors learn in residency. You see what works, what doesn't, and why. No memorizing scripts you'll forget under pressure.</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Curriculum Overview -->
+<!-- What You'll Learn -->
 <section class="section section--white">
     <div class="container">
         <div class="section-header">
-            <div class="section-label">Curriculum</div>
-            <h2>What You'll Learn</h2>
-            <p class="section-subtitle">9 modules. 80 hours. Evidence-based, values-driven, identity-focused recovery coaching.</p>
+            <div class="section-label">What You'll Learn to Do</div>
+            <h2>You Won't Walk Away Empty-Handed</h2>
+            <p class="section-subtitle">In 20 weeks, you'll master the ICF core competencies through the lens of recovery coaching. You'll know how to run a session, read a family system, and measure real progress — not just talk about it.</p>
         </div>
-        
-        <div class="grid grid--2 container--narrow">
-            {{ $modules := slice
-                (dict "num" "1" "title" "Getting Started" "desc" "Establish foundations, identify recovery focus, create safety through mutual commitments.")
-                (dict "num" "2" "title" "Core Values" "desc" "Discover and anchor in core values as the foundation for all recovery work. Values-first, not problem-first.")
-                (dict "num" "3" "title" "Vision" "desc" "Break free from past constraints by creating forward-looking visions using the Odyssey Method.")
-                (dict "num" "4" "title" "Awareness" "desc" "Understand how the brain works, build self-awareness, recognize and regulate stress responses.")
-                (dict "num" "5" "title" "Acceptance" "desc" "Recognize and accept reality without denial. Learn the Spheres of Control and Theory of Completeness.")
-                (dict "num" "6" "title" "Committee Thinking" "desc" "Organize thoughts to understand intent. Create distance from negative self-talk. Meet \"Your Prime.\"")
-                (dict "num" "7" "title" "Blocks" "desc" "Identify and release limiting beliefs, assumptions, and interpretations that stop values-aligned living.")
-                (dict "num" "8" "title" "Goals" "desc" "Create mastery goals anchored in core values. Build systems for sustainable achievement.")
-                (dict "num" "9" "title" "Habits" "desc" "Learn identity-based habit change. Not willpower—identity shift. The approach that works in recovery.")
-            }}
-            
-            {{ range $modules }}
+
+        <div class="grid grid--3">
             <div class="card">
                 <div class="card-content">
-                    <div style="font-family: var(--font-display); font-size: 3rem; color: var(--accent-coral); opacity: 0.3; margin-bottom: 1rem;">{{ .num }}</div>
-                    <h3 class="card-title">{{ .title }}</h3>
-                    <p>{{ .desc }}</p>
+                    <h3 class="card-title">Assess Where Clients Are</h3>
+                    <p>Every engagement starts with a Recovery Capital assessment using our POA tool. You measure where your client actually is — not where they say they are. Then you coach from data, and reflect real change back to them over time.</p>
                 </div>
             </div>
-            {{ end }}
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">Coach Individuals and Families</h3>
+                    <p>You'll learn to work with the person in recovery and the family around them. Active listening, powerful questions, evoking awareness — the ICF competencies applied to the hardest conversations families will ever have.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">Guide Families Through Intervention</h3>
+                    <p>Most programs skip this. You'll learn intervention basics — when to initiate, how to prepare a family, and how to facilitate the conversation without breaking trust.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">Navigate Ethics and Boundaries</h3>
+                    <p>Dual relationships, scope of practice, when to coach versus when to refer. Recovery coaching has unique ethical terrain. You'll learn to navigate it with the ICF Code of Ethics as your foundation.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">Build a Sustainable Practice</h3>
+                    <p>Pricing, positioning, referral networks, and the technology to run it all. You graduate with a coaching bio, intake documents, and a platform that makes you look as professional as you are.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">Pass the ICF Credential Exam</h3>
+                    <p>The program includes dedicated exam prep with AI-powered practice scenarios. You'll need to hit 85% on practice exams before you sit for the real thing. We don't let you fail.</p>
+                </div>
+            </div>
         </div>
-        
+    </div>
+</section>
+
+<!-- Your 20-Week Journey -->
+<section class="section section--cream">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-label">The Training Journey</div>
+            <h2>20 Weeks. Four Phases. 80 Hours of Real Training.</h2>
+            <p class="section-subtitle">This isn't a weekend certificate. It's a structured program that builds your skills week by week — from your first coaching conversation to your final observed session.</p>
+        </div>
+
+        <div style="max-width: 800px; margin: 0 auto;">
+            <div style="display: grid; grid-template-columns: auto 1fr; gap: 1.5rem 2rem; align-items: start;">
+
+                <div style="background: var(--accent-coral); color: white; padding: 0.5rem 1rem; font-weight: 700; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap;">Weeks 1–4</div>
+                <div>
+                    <h3 style="margin: 0 0 0.5rem; font-size: 1.125rem;">Foundation: Coaching Stance and ICF Framework</h3>
+                    <p style="margin: 0; color: var(--text-body);">Weekly live Zoom sessions plus async work. You learn what coaching actually is, practice active listening, master the CVR language, and have your first AI coaching conversations. By week 4, you've already coached.</p>
+                </div>
+
+                <div style="background: var(--primary-navy); color: white; padding: 0.5rem 1rem; font-weight: 700; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap;">Weeks 5–8</div>
+                <div>
+                    <h3 style="margin: 0 0 0.5rem; font-size: 1.125rem;">Immersion: Three-Day Intensive Weekend</h3>
+                    <p style="margin: 0; color: var(--text-body);">A full weekend via Zoom covering all 10 CVR modules, live coaching practicums with faculty observation, and the Smith Family case lab. You'll coach real scenarios and get written feedback. This is where everything clicks.</p>
+                </div>
+
+                <div style="background: var(--accent-coral); color: white; padding: 0.5rem 1rem; font-weight: 700; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap;">Weeks 9–16</div>
+                <div>
+                    <h3 style="margin: 0 0 0.5rem; font-size: 1.125rem;">Mastery: Deep Competency Development</h3>
+                    <p style="margin: 0; color: var(--text-body);">Weekly sessions diving deep into each ICF competency — presence, listening, evoking awareness, facilitating growth. You coach peers, upload recordings for AI feedback, and complete two more faculty-observed sessions.</p>
+                </div>
+
+                <div style="background: var(--primary-navy); color: white; padding: 0.5rem 1rem; font-weight: 700; font-size: 0.875rem; text-transform: uppercase; letter-spacing: 0.05em; white-space: nowrap;">Weeks 17–20</div>
+                <div>
+                    <h3 style="margin: 0 0 0.5rem; font-size: 1.125rem;">Launch: Business, Exam Prep, and Graduation</h3>
+                    <p style="margin: 0; color: var(--text-body);">Build your practice: pricing, marketing, referral networks. Prep for the ICF exam with AI practice scenarios. Record your final coaching session evaluated at ACC level. Graduate with your credential, your tools, and your community.</p>
+                </div>
+
+            </div>
+        </div>
+
         <div class="text-center mt-lg">
             <a href="/curriculum/" class="btn btn--secondary">See Full Curriculum Details</a>
+        </div>
+    </div>
+</section>
+
+<!-- Lifetime Support -->
+<section class="section section--navy">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-label" style="color: var(--accent-gold);">After You Graduate</div>
+            <h2>Weekly Support and Office Hours. For Life.</h2>
+            <p class="section-subtitle" style="color: rgba(255,255,255,0.8);">Other programs disappear after they hand you a certificate. We show up every week. As long as you maintain your credential, you get live weekly office hours, peer consultation, and direct access to experienced coaches who've worked hundreds of cases. Because the hardest part isn't getting certified. It's the Tuesday morning when your client relapses and you need to know what to do next.</p>
         </div>
     </div>
 </section>
@@ -122,45 +188,78 @@
     <div class="container">
         <div class="section-header">
             <div class="section-label">What's Included</div>
-            <h2>You Don't Just Get Certification.<br>You Get a Complete Practice Platform.</h2>
+            <h2>You Don't Just Get a Credential. You Get the Tools to Use It.</h2>
         </div>
-        
+
         <div class="grid grid--2">
             <div class="card">
                 <div class="card-content">
                     <h3 class="card-title">Same Page Notes</h3>
-                    <p>AI-guided collaboration platform for recovery professionals. Document sessions, surface insights, coordinate calendars—all in one place.</p>
+                    <p>AI-guided collaboration platform for recovery professionals. Document sessions, surface insights, coordinate with families and treatment teams. All in one place.</p>
                     <p><strong>Included: Lifetime access</strong> ($500/year value)</p>
                 </div>
             </div>
-            
+
             <div class="card">
                 <div class="card-content">
                     <h3 class="card-title">SobaSearch Integration</h3>
-                    <p>Give your clients instant access to 144,000+ recovery meetings nationwide. Built-in resource library.</p>
+                    <p>Give your clients instant access to 144,000+ recovery meetings nationwide. Find the right meeting, the right group, the right fit.</p>
                     <p><strong>Included: Free for your clients</strong></p>
                 </div>
             </div>
-            
+
             <div class="card">
                 <div class="card-content">
-                    <h3 class="card-title">RecoveryCapital Assessment</h3>
-                    <p>Evidence-based client assessment tool. Track progress over time with validated metrics.</p>
+                    <h3 class="card-title">Recovery Capital Assessment</h3>
+                    <p>Evidence-based client assessment tool. Track progress over time with validated metrics. Show families and referral sources that the work is working.</p>
                     <p><strong>Included: Unlimited use</strong></p>
                 </div>
             </div>
-            
+
             <div class="card">
                 <div class="card-content">
                     <h3 class="card-title">Alumni Network</h3>
-                    <p>Monthly peer consultation, continuing education, job board, referral network.</p>
+                    <p>Peer consultation, continuing education, job board, referral network. You're not building a practice alone. You're joining a community of coaches doing this work together.</p>
                     <p><strong>Included: Lifetime membership</strong></p>
                 </div>
             </div>
         </div>
-        
+
         <div class="text-center mt-lg">
             <a href="/platform/" class="btn btn--secondary">Explore the Platform</a>
+        </div>
+    </div>
+</section>
+
+<!-- Who This Is For -->
+<section class="section section--white">
+    <div class="container">
+        <div class="section-header">
+            <div class="section-label">Is This You?</div>
+            <h2>Built for People Who've Been There</h2>
+        </div>
+
+        <div class="grid grid--3">
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">You're in Recovery</h3>
+                    <p>You've done the work. You know what it takes. Now you want to help others find what you found, and you want a real credential behind you when you do it.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">You Love Someone in Recovery</h3>
+                    <p>You've lived through the chaos of addiction in your family. You understand what families go through because you went through it. That experience is your qualification.</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-content">
+                    <h3 class="card-title">You Work in the Field</h3>
+                    <p>You're already in behavioral health, social work, or counseling. You want to add recovery coaching to your practice with a methodology that gets results.</p>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -169,7 +268,8 @@
 <section class="section section--navy">
     <div class="container container--narrow text-center">
         <h2>Next Cohort Starts Soon</h2>
-        <p style="font-size: 1.25rem; margin-bottom: 2rem;">Limited to {{ .Site.Params.cohortSize }} coaches. Applications reviewed on rolling basis.</p>
+        <p style="font-size: 1.25rem; margin-bottom: 1rem;">{{ .Site.Params.price }} total. {{ .Site.Params.weeks }} weeks. Limited to {{ .Site.Params.cohortSize }} coaches per cohort.</p>
+        <p style="font-size: 1.125rem; margin-bottom: 2rem; opacity: 0.85;">Applications reviewed on a rolling basis. Early applicants get priority.</p>
         <a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
         <p style="margin-top: 2rem; opacity: 0.85;">Questions? Email <a href="mailto:{{ .Site.Params.email }}" style="color: var(--accent-coral);">{{ .Site.Params.email }}</a> or call {{ .Site.Params.phone }}</p>
     </div>

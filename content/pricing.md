@@ -1,42 +1,120 @@
 ---
-title: "Pricing & FAQ"
-description: "$1,099 for ICF-accredited training + lifetime platform access. Payment plans available."
+title: "Pricing & Investment"
+description: "Core Values Recovery Coach certification — $2,379 for ICF ACC based training, 50+ AI practice clients, and lifetime weekly support. Payment plans available."
 label: "Investment"
 ---
 
-<div style="text-align: center; max-width: 700px; margin: 0 auto 4rem;">
+<div style="text-align: center; max-width: 750px; margin: 0 auto 3rem;">
 
-## Level 1 ICF Coach Training
+## You're wondering if this is worth the investment.
 
-<div style="font-family: var(--font-display); font-size: 4.5rem; color: var(--primary-navy); margin: 2rem 0;">$1,099</div>
+That hesitation makes sense. You've probably looked at other programs. You've compared prices, read the fine print, and wondered what separates one certification from another. You don't want to spend money on something that leaves you unprepared when a real client is sitting across from you, in crisis, trusting you with their recovery.
 
-One-time investment
+**So let's talk about what you're actually buying.**
 
 </div>
 
-## What's Included:
+***
 
-✓ **80 hours of ICF Level 1 (ACC) accredited training**  
-✓ **48 hours live instruction + 32 hours independent study**  
-✓ **10 hours mentor coaching** (counts toward ICF requirement)  
-✓ **Lifetime access to Same Page Notes** ($500/year value)  
-✓ **SobaSearch integration** (144k+ meetings, unlimited client use)  
-✓ **RecoveryCapital assessment tool** (unlimited use)  
-✓ **Alumni network membership** (lifetime)  
-✓ **Monthly peer consultation calls**  
-✓ **Continuing education credits**  
-✓ **Job board & referral network access**  
-✓ **All curriculum materials & worksheets**  
-✓ **Certificate of completion**
+## This Isn't a Course. It's the Foundation of Your Career.
 
-<div style="text-align: center; margin: 3rem 0;">
-    <a href="/apply/" class="btn btn--large btn--primary">Apply Now</a>
-    <p style="margin-top: 1rem; color: var(--text-light);">Limited to 30 coaches per cohort</p>
+Most certification programs hand you a binder, run you through lectures, and send you out the door. You memorize scripts. You pass a test. Then you sit across from your first client and realize you have no idea what to do when they go off-script.
+
+**The Core Values Recovery Coach certification is built differently.**
+
+You don't memorize — you practice. You work through simulated cases with trainers, learning together how to handle the situations that actually show up in recovery coaching. You practice with 50+ AI clients who give you real, immediate feedback — not a grade, but a mirror that shows you what you're doing well and where you need to grow.
+
+And when you graduate, you don't lose access. You get weekly support and office hours **for life**, as long as you maintain your credential. No alumni fee. No expiration date. You are never on your own.
+
+***
+
+<div style="text-align: center; max-width: 700px; margin: 0 auto 2rem;">
+
+## Core Values Recovery Coach Certification
+
+<div style="font-family: var(--font-display); font-size: 4.5rem; color: var(--primary-navy); margin: 2rem 0;">$2,379</div>
+
+**One investment. Lifetime returns.**
+
 </div>
 
----
+## Everything That's Included:
 
-## Payment Plans Available
+<div style="max-width: 700px; margin: 0 auto;">
+
+✓ **ICF ACC Based Coach Training Program** — meets ICF standards for the ACC (Associate Certified Coach) credential pathway
+
+✓ **48 Hours Live Instruction** — real-time training with experienced coaches, not pre-recorded videos you watch alone
+
+✓ **32 Hours Independent Study** — structured coursework that deepens what you learn in live sessions
+
+✓ **10 Hours Mentor Coaching** — counts directly toward your ICF requirement, included at no extra cost
+
+✓ **50+ AI practice clients** — on-demand simulated clients who give real feedback so you build skill, not just knowledge
+
+✓ **Basics of Intervention Techniques** — learn how to guide families through the hardest conversations of their lives
+
+✓ **Lifetime Weekly Support & Office Hours** — every week, for as long as you hold your credential, you have a room full of coaches who have your back
+
+✓ **Same Page Notes Access** — AI-powered case management platform ($500/year value, included for life)
+
+✓ **SobaSearch Integration** — 144,000+ recovery meetings at your fingertips for every client, every situation
+
+✓ **RecoveryCapital Assessment Tool** — professional-grade assessment, unlimited use
+
+✓ **Alumni Network Membership** — lifetime access to a growing community of recovery coaches
+
+✓ **Continuing Education Credits** — keep your credential current
+
+✓ **Job Board & Referral Network** — get connected to opportunities from day one
+
+✓ **All Curriculum Materials & Worksheets** — nothing held back, nothing sold separately
+
+✓ **Certificate of Completion** — your proof of training, recognized industry-wide
+
+</div>
+
+***
+
+## What Happens If You Piece This Together On Your Own
+
+People try. Here's what it actually costs:
+
+| Component                                 | DIY Cost           |
+| ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| Generic coaching certification            | $1,500–$3,000      |
+| Recovery-specific supplemental training   | $500–$1,000        |
+| Mentor coaching hours (10 hrs @ $100+/hr) | $1,000+            |
+| AI practice tools (if they exist)         | $300–$600/year     |
+| Case management software                  | $500/year          |
+| Ongoing supervision or consultation       | $200–$400/month    |
+| **Total first-year cost**                 | **$3,000–$5,000+** |
+
+And after all that, you still don't have a recovery-specific credential. You don't have lifetime support. You don't have 50 AI clients in your pocket. You have a patchwork — and gaps that show up when clients need you most.
+
+**Or you invest $2,379 once and get everything, for life.**
+
+***
+
+## Our Promises to You
+
+We know trust is earned, not assumed. Here's what we commit to:
+
+**1. You will be prepared, not just credentialed.** Our training is built on simulated cases and real practice — not scripts you'll forget under pressure.
+
+**2. You will never coach alone.** Weekly support and office hours for life means you always have experienced coaches to consult when cases get hard.
+
+**3. Your credential will mean something.** ICF ACC based training is the gold standard. Employers and clients recognize it.
+
+**4. The AI clients will make you better.** 50+ practice scenarios with real feedback — the kind of repetition that builds genuine skill.
+
+**5. If it's not right, you can walk away.** Full refund available within the first two weeks. If you need to pause, you rejoin the next cohort where you left off.
+
+**6. No hidden costs. No upsells.** $2,379 is the price. Lifetime support is included. We don't nickel-and-dime you after enrollment.
+
+***
+
+## Payment Plans — No Extra Fees
 
 <div class="grid grid--3" style="margin: 3rem 0;">
 
@@ -44,103 +122,108 @@ One-time investment
 
 ### Pay in Full
 
-<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$1,099</div>
+<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$2,379</div>
 
-One payment
-
-</div>
-
-<div style="text-align: center; padding: 2rem; background: white; border-radius: 0; box-shadow: var(--shadow-sm);">
-
-### 3 Payments
-
-<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$366/mo</div>
-
-3 monthly payments  
-$1,098 total
+One payment — done.
 
 </div>
 
 <div style="text-align: center; padding: 2rem; background: white; border-radius: 0; box-shadow: var(--shadow-sm);">
 
-### 6 Payments
+### 3 Monthly Payments
 
-<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$183/mo</div>
+<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$367/mo</div>
 
-6 monthly payments  
-$1,098 total
+3 payments of $367
+No interest. No fees.
+
+</div>
+
+<div style="text-align: center; padding: 2rem; background: white; border-radius: 0; box-shadow: var(--shadow-sm);">
+
+### 6 Monthly Payments
+
+<div style="font-family: var(--font-display); font-size: 3rem; color: var(--primary-navy); margin: 1rem 0;">$184/mo</div>
+
+6 payments of $184
+No interest. No fees.
 
 </div>
 
 </div>
 
-Payment plans have no additional fees. Select your preferred plan during enrollment.
+Select your preferred plan during enrollment. Every plan gets the same full access — no features withheld.
 
----
+***
 
 ## Frequently Asked Questions
 
-### Is this program ICF-accredited?
+### "Is this program ICF-accredited?"
 
-Yes. This is an ICF Level 1 accredited program, meaning it meets ICF standards for ACC (Associate Certified Coach) pathway. You'll receive 80 CCE hours that count toward ACC credential.
+Yes. This is an ICF ACC based program, meaning it meets ICF standards for the Associate Certified Coach pathway. You'll earn hours that count toward your ACC credential.
 
-### Will I be ICF-certified after completing this?
+### "Will I be ICF-certified after completing this?"
 
-You'll have completed Level 1 training (one requirement for ACC). To become ACC-certified, you'll also need: 100 coaching hours (75 paid), 10 mentor coaching hours (included in our program), performance evaluation, and ICF application. We prepare you for all of this.
+You'll have completed the training requirement for ACC. To earn the full ACC credential, you'll also need 100 coaching hours (75 paid), a performance evaluation, and an ICF application. Your 10 mentor coaching hours are already included in this program. We prepare you for every step.
 
-### Can I pay in installments?
+### "I've never coached before. Can I do this?"
 
-Yes. We offer 3-payment ($366/month) and 6-payment ($183/month) plans with no additional fees.
+Yes. The program is designed to take you from zero to competent. The AI clients let you practice hundreds of scenarios before you ever sit with a real client. You won't be thrown into the deep end.
 
-### What's the time commitment?
+### "Do I need to be in recovery myself?"
 
-20 weeks, 4-6 hours per week. Includes 48 hours live instruction (typically 2-3 hours/week) + 32 hours independent study.
+Not required. This program serves individuals and families in recovery, and coaches come from many backgrounds. Personal or family experience with recovery is common but not a prerequisite.
 
-### Is this online or in-person?
+### "What's the time commitment?"
 
-100% online via Zoom. Live sessions are recorded for catch-up if needed.
+20 weeks, roughly 4–6 hours per week. Live sessions run 2–3 hours weekly via Zoom, with the remainder as independent study. All live sessions are recorded if you need to catch up.
 
-### Do I need to be in recovery myself?
+### "What if I'm already a therapist or counselor?"
 
-Not required, but most successful family recovery coaches have personal or close family experience with recovery.
+Many therapists add this credential to expand their practice. Coaching is complementary to therapy — a different skill set that opens new doors and new revenue.
 
-### What if I'm already a therapist/counselor?
+### "Can my employer pay for this?"
 
-Perfect! Many therapists take this training to add coaching skills and credentials. Coaching is complementary to therapy, not competitive.
+Yes. Treatment centers and therapy practices regularly sponsor staff training. We provide all necessary documentation for employer reimbursement.
 
-### What's included with "lifetime platform access"?
+### "What if I need to drop out?"
 
-Permanent access to Same Page Notes (AI-powered case management), SobaSearch integration, and RecoveryCapital assessment tool. Worth $500+/year.
+Full refund within the first two weeks. After that, you can rejoin the next cohort where you left off — no additional cost.
 
-### How many coaches per cohort?
+### "How many people per cohort?"
 
-Maximum 30 for personalized attention and community building.
+Maximum 30. Small enough for personalized attention, large enough for a real community.
 
-### When does the next cohort start?
+### "When does the next cohort start?"
 
-We run cohorts 3-4 times per year. Apply now and we'll let you know upcoming start dates.
-
-### What if I need to drop out or take a break?
-
-You can join the next cohort where you left off. Refunds available within first 2 weeks.
-
-### Can my employer pay for this?
-
-Yes. Many treatment centers and therapy practices sponsor staff training. We provide documentation.
+We run cohorts 3–4 times per year. Apply now and we'll notify you of the next start date.
 
 ### Still have questions?
 
-Email [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com) or call [(833) 594-7146](tel:8335947146).
+Email [clay@bearecoverycoach.com](mailto:clay@bearecoverycoach.com) or call [(833) 594-7146](tel:8335947146). We answer every message.
 
----
+***
 
-<div style="text-align: center; max-width: 600px; margin: 4rem auto; padding: 3rem; background: var(--primary-navy); color: white; border-radius: 0;">
+## What Happens If You Choose the Wrong Program
 
-## Ready to Begin?
+You spend less money on a program that teaches you theory but not practice. You get a certificate that doesn't carry weight with employers. You graduate without ongoing support, and the first time a client's situation gets complicated, you're Googling answers alone at midnight.
 
-Applications reviewed on rolling basis.  
-Limited to 30 coaches per cohort.
+Cheaper programs produce coaches who burn out, lose confidence, and leave the field within two years. The people who needed them — the individuals and families fighting for their recovery — are left without help.
+
+**The cost of being underprepared is measured in lives, not dollars.**
+
+***
+
+<div style="text-align: center; max-width: 650px; margin: 4rem auto; padding: 3rem; background: var(--primary-navy); color: white; border-radius: 0;">
+
+## In 20 Weeks, This Is Where You'll Be
+
+An ICF ACC based credential that employers recognize. 50+ AI clients in your pocket for lifetime practice. Weekly support calls with experienced coaches — forever. The skills to work with individuals and families in recovery. And the confidence that comes from real preparation, not just a certificate on the wall.
+
+**All for $2,379. Payment plans available. No hidden fees. Ever.**
 
 <a href="/apply/" class="btn btn--large btn--primary" style="margin-top: 2rem;">Apply for Next Cohort</a>
+
+<p style="margin-top: 1rem; opacity: 0.85;">Limited to 30 coaches per cohort. Applications reviewed on a rolling basis.</p>
 
 </div>

@@ -7,7 +7,7 @@
             <p class="section-subtitle">{{ .Description }}</p>
             {{ end }}
         </div>
-        
+
         <div class="grid grid--2" style="max-width: 1000px; margin: 0 auto;">
             {{ range .Pages }}
             <article class="card">
@@ -17,13 +17,13 @@
                             {{ .Title }}
                         </a>
                     </h2>
-                    
+
                     {{ if .Description }}
                     <p>{{ .Description }}</p>
                     {{ else if .Summary }}
                     <p>{{ .Summary }}</p>
                     {{ end }}
-                    
+
                     <div style="margin-top: 1.5rem;">
                         <a href="{{ .Permalink }}" class="btn btn--secondary">Read More →</a>
                     </div>
@@ -31,6 +31,17 @@
             </article>
             {{ end }}
         </div>
+    </div>
+</section>
+
+{{/* StoryBrand CTA */}}
+<section class="section section--navy" style="text-align: center;">
+    <div class="container container--narrow">
+        <h2 style="color: white; margin-bottom: 1rem;">Ready to Become a Recovery Coach?</h2>
+        <p style="color: rgba(255,255,255,0.85); font-size: 1.125rem; max-width: 600px; margin: 0 auto 2rem;">
+            ICF ACC based certification. 50+ AI practice clients. Lifetime weekly support. $2,379.
+        </p>
+        <a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
     </div>
 </section>
 {{ end }}

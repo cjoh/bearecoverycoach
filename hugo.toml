@@ -4,18 +4,19 @@ title = 'Be A Recovery Coach'
 theme = 'bearc'
 
 [params]
-  description = 'ICF-accredited family recovery coach training. 75% success rate curriculum + AI-powered platform + professional certification.'
+  description = 'Become a Core Values Recovery Coach. ICF ACC based certification + 50+ AI practice clients + lifetime weekly support. Help individuals and families find recovery.'
   author = 'Clay Johnson'
   email = 'clay@bearecoverycoach.com'
   phone = '(833) 594-7146'
   phoneRaw = '8335947146'
-  
+
   # Program details
-  price = '$1,099'
+  price = '$2,379'
   hours = '80'
   weeks = '20'
   successRate = '75%'
   cohortSize = '30'
+  aiCoaches = '50+'
   
   # Links
   coreValuesUrl = 'https://corevaluesrecovery.com'
