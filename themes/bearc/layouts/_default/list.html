@@ -1,0 +1,36 @@
+{{ define "main" }}
+<section class="section section--cream">
+    <div class="container">
+        <div class="section-header">
+            <h1>{{ .Title }}</h1>
+            {{ if .Description }}
+            <p class="section-subtitle">{{ .Description }}</p>
+            {{ end }}
+        </div>
+        
+        <div class="grid grid--2" style="max-width: 1000px; margin: 0 auto;">
+            {{ range .Pages }}
+            <article class="card">
+                <div class="card-content">
+                    <h2 class="card-title">
+                        <a href="{{ .Permalink }}" style="border-bottom: none; color: var(--text-dark);">
+                            {{ .Title }}
+                        </a>
+                    </h2>
+                    
+                    {{ if .Description }}
+                    <p>{{ .Description }}</p>
+                    {{ else if .Summary }}
+                    <p>{{ .Summary }}</p>
+                    {{ end }}
+                    
+                    <div style="margin-top: 1.5rem;">
+                        <a href="{{ .Permalink }}" class="btn btn--secondary">Read More →</a>
+                    </div>
+                </div>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
