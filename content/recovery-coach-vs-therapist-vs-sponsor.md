@@ -31,8 +31,8 @@ If you're navigating recovery — or thinking about helping others do the same �
 | <br />                                                                      | **Recovery Coach**                  | **Therapist**                             | **Sponsor**                         |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | **Focus**            | Future (goals, action)              | Past/Present (healing)                    | Steps & spiritual work              |
-| **Training**         | 60-125 hours + ICF credential       | Master's degree + license                 | Personal recovery experience        |
-| **Cost**             | $75-200/session                     | $100-250/session                          | Free (12-step tradition)            |
+| **Training**         | 60–125 hours + ICF credential       | Master's degree + license                 | Personal recovery experience        |
+| **Cost**             | $75–200/session                     | $100–250/session                          | Free (12-step tradition)            |
 | **Relationship**     | Professional partnership            | Clinical boundary                         | Peer mentorship                     |
 | **Can Diagnose**     | No                                  | Yes                                       | No                                  |
 | **Insurance**        | Rarely                              | Usually                                   | Never                               |
@@ -79,7 +79,7 @@ You already know what went wrong. A recovery coach helps you figure out what com
 
 **Typical Path:**
 
-* 60-125 hours of coach-specific training
+* 60–125 hours of coach-specific training
 
 * ICF certification (ACC, PCC) for professional credibility
 
@@ -99,9 +99,9 @@ You already know what went wrong. A recovery coach helps you figure out what com
 
 ### Cost
 
-* **$75-200/session** (private practice)
+* **$75–200/session** (private practice)
 
-* **$40-65K/year salary** (employed at treatment centers)
+* **$40–65K/year salary** (employed at treatment centers)
 
 * Usually out-of-pocket — insurance rarely covers coaching yet
 
@@ -151,9 +151,9 @@ When the wounds are deep — trauma, mental health conditions, co-occurring diso
 
 **Required Path:**
 
-* Master's degree (2-3 years: MSW, MA Counseling, MFT)
+* Master's degree (2–3 years: MSW, MA Counseling, MFT)
 
-* Supervised clinical hours (2,000-4,000 depending on license type)
+* Supervised clinical hours (2,000–4,000 depending on license type)
 
 * State licensure exam (LCSW, LPC, LMFT, or psychologist)
 
@@ -161,15 +161,15 @@ When the wounds are deep — trauma, mental health conditions, co-occurring diso
 
 * Professional liability insurance
 
-**Time to practice:** 4-6 years minimum.
+**Time to practice:** 4–6 years minimum.
 
 ### Cost
 
-* **$100-250/session** (private practice)
+* **$100–250/session** (private practice)
 
 * **Often covered by insurance** (with a diagnosis)
 
-* Copays typically $20-50 when using insurance
+* Copays typically $20–50 when using insurance
 
 ### When a Therapist Is Right for You
 
@@ -311,7 +311,7 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 **Recovery Coach:**
 
-* Coaching-specific training (60-125 hours)
+* Coaching-specific training (60–125 hours)
 
 * ICF credentials (ACC/PCC) — optional but increasingly expected
 
@@ -413,7 +413,7 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 **Recovery Coach:**
 
-* Out-of-pocket: $75-200/session
+* Out-of-pocket: $75–200/session
 
 * Usually not covered by insurance (yet)
 
@@ -423,9 +423,9 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 **Therapist:**
 
-* With insurance: $20-50 copay
+* With insurance: $20–50 copay
 
-* Without insurance: $100-250/session
+* Without insurance: $100–250/session
 
 * Most accessible if you have good coverage
 
@@ -569,7 +569,7 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 **"What do I need most right now?"**
 
-### If your answer is...
+### If your answer is…
 
 **"I need to heal from trauma, abuse, or past wounds."**
 → **Therapist** (clinical trauma treatment)
@@ -715,7 +715,7 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 * **Meetings:** Free (donations encouraged)
 
-* **Total:** $0-50 (optional donations)
+* **Total:** $0–50 (optional donations)
 
 **Pros:** Accessible to everyone, no barriers.
 **Cons:** No professional support for mental health, trauma, or structured goal-setting.
@@ -750,9 +750,9 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 * Lost job: $30,000+/year
 
-* DUI: $10,000-15,000
+* DUI: $10,000–15,000
 
-* Treatment: $5,000-30,000
+* Treatment: $5,000–30,000
 
 * Relationships, health, self-esteem: incalculable
 
@@ -822,9 +822,9 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 * Professional, future-focused, goal-oriented
 
-* Training: 60-125 hours + ICF credential
+* Training: 60–125 hours + ICF credential
 
-* Cost: $75-200/session
+* Cost: $75–200/session
 
 * **Best for:** Building a life after stabilization
 
@@ -834,7 +834,7 @@ A sponsor is someone who has walked the path before you. They're not a professio
 
 * Training: Master's + license (6+ years)
 
-* Cost: $100-250/session (often insurance-covered)
+* Cost: $100–250/session (often insurance-covered)
 
 * **Best for:** Healing the past, treating mental health
 
@@ -862,7 +862,7 @@ You've seen what recovery coaches do — and how they change lives. If you have 
 
 **The Core Values Recovery Coach certification gives you:**
 
-* An ICF ACC based training program with real professional credentials
+* A rigorous professional training program with real credentials
 
 * Practice with 50+ AI clients who give you real feedback
 

@@ -126,17 +126,17 @@ You have two ways to get here. One is harder than it needs to be.
 
 ### Path 1: Piecemeal (Slower, More Expensive)
 
-1. Find an ICF-accredited training program ($1,500-$3,000)
+1. Find an ICF-accredited training program ($1,500–$3,000)
 2. Complete training
 3. Find clients on your own (this is the hardest part)
-4. Coach 100 hours (6-18 months, depending on your pipeline)
-5. Find a mentor coach separately ($500-$1,500)
+4. Coach 100 hours (6–18 months, depending on your pipeline)
+5. Find a mentor coach separately ($500–$1,500)
 6. Complete 10 mentor hours
 7. Submit performance evaluation
 8. Apply for ACC
 
-**Total cost:** $2,500-$5,000+
-**Timeline:** 12-24 months
+**Total cost:** $2,500–$5,000+
+**Timeline:** 12–24 months
 
 You can make this work. But you will spend a lot of time and money figuring out logistics instead of coaching.
 
@@ -148,7 +148,7 @@ The smarter approach is a program that bundles everything together: accredited t
 
 Here is what is included:
 
-* **ICF ACC based training** — designed to prepare you for the ACC credential
+* **Professional coach training** — designed to professional coaching standards, with ICF accreditation in progress
 
 * **Recovery specialization** — you learn to coach individuals and families in recovery, not just generic life coaching
 
@@ -168,7 +168,7 @@ Here is what is included:
 
 ## Step-by-Step: Your Path to ACC
 
-### Step 1: Choose Your Training Program (Weeks 1-20)
+### Step 1: Choose Your Training Program (Weeks 1–20)
 
 **What to look for:**
 
@@ -202,7 +202,7 @@ During training, you will learn:
 
 At the end, you receive your certificate of completion.
 
-### Step 3: Start Coaching (Weeks 20-30)
+### Step 3: Start Coaching (Weeks 20–30)
 
 This is where many new coaches stall. You have the training. Now you need clients.
 
@@ -218,9 +218,9 @@ This is where many new coaches stall. You have the training. Now you need client
 
 * Free discovery sessions that convert to paid clients
 
-**Your goal:** Get to 5-10 active clients within 2-3 months of completing training.
+**Your goal:** Get to 5–10 active clients within 2–3 months of completing training.
 
-**Pricing:** Most new recovery coaches start at $75-$100 per session and raise rates as they gain experience and confidence.
+**Pricing:** Most new recovery coaches start at $75–$100 per session and raise rates as they gain experience and confidence.
 
 ### Step 4: Log 100 Coaching Hours (Months 6-12)
 
@@ -236,7 +236,7 @@ Track everything carefully: client name, session date, duration, paid versus pro
 
 If your training program includes mentor coaching, this often happens as group sessions during or after training.
 
-If you need to find a mentor separately, search the ICF directory. Expect to pay $50-$150 per hour for 10 hours.
+If you need to find a mentor separately, search the ICF directory. Expect to pay $50–$150 per hour for 10 hours.
 
 You will present recordings of your sessions, receive feedback, and sharpen your skills against the ICF competencies.
 
@@ -268,7 +268,7 @@ Submit to ICF:
 
 * Background check
 
-ICF reviews applications in 4-8 weeks. Once approved, you are ACC-credentialed.
+ICF reviews applications in 4–8 weeks. Once approved, you are ACC-credentialed.
 
 ***
 
@@ -278,14 +278,14 @@ Here is a realistic comparison.
 
 | Item                | Piecemeal Approach | Core Values Recovery Coach |
 | -------------------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| ICF Training        | $1,500-$3,000      | $2,379                     |
-| Mentor Coaching     | $500-$1,500        | Included                   |
+| ICF Training        | $1,500–$3,000      | $2,379                     |
+| Mentor Coaching     | $500–$1,500        | Included                   |
 | AI Practice Clients | N/A                | Included (50+)             |
 | Lifetime Support    | N/A                | Included                   |
 | Business Tools      | $500-$1,000/year   | Included                   |
 | Performance Eval    | $250               | $250                       |
 | ICF Application Fee | $300               | $300                       |
-| **Total**           | **$3,050-$6,050+** | **$1,649**                 |
+| **Total**           | **$3,050–$6,050+** | **$1,649**                 |
 
 **Ongoing costs after credentialing:**
 
@@ -293,7 +293,7 @@ Here is a realistic comparison.
 
 * Continuing education: varies
 
-* Professional liability insurance: $200-$500/year
+* Professional liability insurance: $200–$500/year
 
 ***
 
@@ -311,23 +311,23 @@ Here is a realistic comparison.
 
 * Performance evaluation and application: 2 months
 
-* **Total: 8-10 months**
+* **Total: 8–10 months**
 
 **Typical timeline:**
 
 * Training: 20 weeks
 
-* Build client base: 3-4 months
+* Build client base: 3–4 months
 
-* Complete 100 hours: 8-10 months
+* Complete 100 hours: 8–10 months
 
 * Mentor coaching: concurrent
 
 * Performance evaluation and application: 2 months
 
-* **Total: 12-18 months**
+* **Total: 12–18 months**
 
-**Part-time pace:** 18-24 months. There is nothing wrong with taking longer. The credential is worth the same whether you earn it in 8 months or 24.
+**Part-time pace:** 18–24 months. There is nothing wrong with taking longer. The credential is worth the same whether you earn it in 8 months or 24.
 
 ***
 
@@ -402,7 +402,7 @@ Visit the [ICF Accredited Program Directory](https://coachingfederation.org/find
 
 Here is what you get for $2,379:
 
-* ICF ACC based training designed to prepare you for the ACC credential
+* Professional coach training designed to coaching standards, with ICF accreditation in progress
 
 * Recovery coaching specialization for individuals and families
 
@@ -414,7 +414,7 @@ Here is what you get for $2,379:
 
 * Lifetime weekly support and office hours (as long as you maintain your credential)
 
-**Timeline:** 20 weeks of training, then 6-12 months to ACC.
+**Timeline:** 20 weeks of training. ICF accreditation in progress — pilot graduates will receive the accredited credential once approved.
 
 [Apply for Next Cohort](/apply/)
 
@@ -446,7 +446,7 @@ ICF certification:
 
 * Positions you for insurance reimbursement as the field evolves
 
-**The cost is $2,379-$5,000 depending on the path you choose.** The timeline is 8-18 months. The return is a career built on credibility.
+**The cost is $2,379–$5,000 depending on the path you choose.** The timeline is 8–18 months. The return is a career built on credibility.
 
 If you are serious about recovery coaching as a profession, this is the path.
 
@@ -458,7 +458,7 @@ If you are serious about recovery coaching as a profession, this is the path.
 
 **The next Core Values Recovery Coach cohort is forming now.**
 
-* ICF ACC Based Training
+* Professional Coach Training (ICF Accreditation in Progress)
 
 * 50+ AI clients for Practice
 

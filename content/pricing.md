@@ -1,6 +1,6 @@
 ---
 title: "Pricing & Investment"
-description: "Core Values Recovery Coach certification — $2,379 for ICF ACC based training, 50+ AI practice clients, and lifetime weekly support. Payment plans available."
+description: "Core Values Recovery Coach certification — $2,379 for professional coach training, 50+ AI practice clients, and lifetime weekly support. Payment plans available."
 label: "Investment"
 ---
 
@@ -42,13 +42,13 @@ And when you graduate, you don't lose access. You get weekly support and office 
 
 <div style="max-width: 700px; margin: 0 auto;">
 
-✓ **ICF ACC Based Coach Training Program** — meets ICF standards for the ACC (Associate Certified Coach) credential pathway
+✓ **Core Values Recovery Coach Training Program** — rigorous professional certification for recovery coaching
 
 ✓ **48 Hours Live Instruction** — real-time training with experienced coaches, not pre-recorded videos you watch alone
 
 ✓ **32 Hours Independent Study** — structured coursework that deepens what you learn in live sessions
 
-✓ **10 Hours Mentor Coaching** — counts directly toward your ICF requirement, included at no extra cost
+✓ **10 Hours Mentor Coaching** — included at no extra cost to sharpen your skills with experienced coaches
 
 ✓ **50+ AI practice clients** — on-demand simulated clients who give real feedback so you build skill, not just knowledge
 
@@ -104,7 +104,7 @@ We know trust is earned, not assumed. Here's what we commit to:
 
 **2. You will never coach alone.** Weekly support and office hours for life means you always have experienced coaches to consult when cases get hard.
 
-**3. Your credential will mean something.** ICF ACC based training is the gold standard. Employers and clients recognize it.
+**3. Your credential will mean something.** Professional-grade training that employers and clients recognize.
 
 **4. The AI clients will make you better.** 50+ practice scenarios with real feedback — the kind of repetition that builds genuine skill.
 
@@ -158,13 +158,13 @@ Select your preferred plan during enrollment. Every plan gets the same full acce
 
 ## Frequently Asked Questions
 
-### "Is this program ICF-accredited?"
+### "Will this program be accredited?"
 
-Yes. This is an ICF ACC based program, meaning it meets ICF standards for the Associate Certified Coach pathway. You'll earn hours that count toward your ACC credential.
+We are pursuing ICF accreditation. The current pilot cohort will complete the full professional training program. Once we complete the pilot and receive accreditation, pilot graduates will receive the accredited credential at no additional cost.
 
-### "Will I be ICF-certified after completing this?"
+### "What credential will I earn?"
 
-You'll have completed the training requirement for ACC. To earn the full ACC credential, you'll also need 100 coaching hours (75 paid), a performance evaluation, and an ICF application. Your 10 mentor coaching hours are already included in this program. We prepare you for every step.
+You'll earn the Core Values Recovery Coach certification. The curriculum is designed to professional coaching standards. Pilot cohort graduates will be first in line for the accredited credential once it's approved.
 
 ### "I've never coached before. Can I do this?"
 
@@ -218,7 +218,7 @@ Cheaper programs produce coaches who burn out, lose confidence, and leave the fi
 
 ## In 20 Weeks, This Is Where You'll Be
 
-An ICF ACC based credential that employers recognize. 50+ AI clients in your pocket for lifetime practice. Weekly support calls with experienced coaches — forever. The skills to work with individuals and families in recovery. And the confidence that comes from real preparation, not just a certificate on the wall.
+A professional credential that employers recognize. 50+ AI clients in your pocket for lifetime practice. Weekly support calls with experienced coaches — forever. The skills to work with individuals and families in recovery. And the confidence that comes from real preparation, not just a certificate on the wall.
 
 **All for $2,379. Payment plans available. No hidden fees. Ever.**
 

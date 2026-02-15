@@ -1,6 +1,6 @@
 ---
-title: "Become a Recovery Coach in California: ICF ACC Based Certification"
-description: "Get certified as a Core Values Recovery Coach from California. ICF ACC based program with 50+ AI practice clients, simulated cases, and lifetime support. $2,379."
+title: "Become a Recovery Coach in California: Professional Certification"
+description: "Get certified as a Core Values Recovery Coach from California. professional certification program with 50+ AI practice clients, simulated cases, and lifetime support. $2,379."
 layout: "single"
 ---
 
@@ -26,7 +26,7 @@ You need more than theory. You need practice. You need feedback. You need suppor
 
 ## Core Values Recovery Coach Certification
 
-**An ICF ACC based program that actually prepares you for real clients.**
+**An professional certification program that actually prepares you for real clients.**
 
 Here's what makes this different:
 
@@ -58,7 +58,7 @@ Same Page Notes for client management. SobaSearch for treatment resources. Recov
 Complete a short application. Takes about 5 minutes.
 
 **Step 2: Train for 20 Weeks**
-Complete the ICF ACC based curriculum online — from anywhere in California. 8 training areas covering coaching essentials, recovery case management, intervention, family coaching, and more.
+Complete the professional curriculum online — from anywhere in California. 8 training areas covering coaching essentials, recovery case management, intervention, family coaching, and more.
 
 **Step 3: Launch Your Practice**
 Graduate with your Core Values Recovery Coach credential, professional tools, and a support community that lasts a lifetime.
@@ -75,7 +75,7 @@ Without proper preparation, you'll face situations you're not ready for. A clien
 
 ## What Your Life Looks Like After
 
-You're credentialed. ICF ACC based. You've already practiced hundreds of scenarios before your first real session.
+You're credentialed. Professionally trained. You've already practiced hundreds of scenarios before your first real session.
 
 You have professional tools to manage your practice. Weekly support calls when you need guidance. A community of coaches who understand what you do.
 

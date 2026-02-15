@@ -78,7 +78,7 @@ This is not a failure of intention. It is a failure of preparation.
 
 * Licensed therapists (LCSW, LPC, LMFT) who work in recovery daily
 
-* ICF-credentialed coaches (PCC, ACC) with active practices
+* Credentialed coaches with active practices
 
 * Recovery professionals with lived experience
 
@@ -112,7 +112,7 @@ This is not a failure of intention. It is a failure of preparation.
 
 <h3>Step 3: Graduate With Everything You Need</h3>
 
-<p>Earn your Core Values Recovery Coach certification, an ICF ACC based credential. Get lifetime access to our platform, tools, alumni network, and weekly support calls. Start coaching with confidence.</p>
+<p>Earn your Core Values Recovery Coach certification, a professional coaching credential. Get lifetime access to our platform, tools, alumni network, and weekly support calls. Start coaching with confidence.</p>
 
 </div>
 
@@ -132,11 +132,11 @@ You do not memorize scripts. You work with trainers on simulated cases, learning
 
 When you sit down with your first real client, it will not be the first time you have navigated a crisis conversation. It will be the fiftieth.
 
-### You Get an ICF ACC Based Credential
+### You Get a Real Professional Credential
 
-The International Coaching Federation is the gold standard in coaching. This is not a weekend certificate that means nothing outside your living room. Treatment centers hire coaches with ICF credentials. Families trust them. Insurance pathways are opening for them.
+This is not a weekend certificate that means nothing outside your living room. The Core Values Recovery Coach certification is a rigorous professional program. Treatment centers hire credentialed coaches. Families trust them. We are pursuing ICF accreditation, and pilot cohort graduates will receive the accredited credential once approved.
 
-The Core Values Recovery Coach certification is built on the ICF ACC framework. It signals to the world that you are trained, tested, and qualified.
+The Core Values Recovery Coach certification signals to the world that you are trained, tested, and qualified.
 
 ### You Help Individuals AND Families
 
@@ -162,7 +162,7 @@ Because the hardest part of coaching is not getting certified. It is the Tuesday
 
 ## Imagine This Is Your Life One Year From Now
 
-You wake up knowing exactly who you are professionally. You are a Core Values Recovery Coach with an ICF ACC based credential on your wall and real clients on your calendar.
+You wake up knowing exactly who you are professionally. You are a Core Values Recovery Coach with a professional coaching credential on your wall and real clients on your calendar.
 
 When a family calls in crisis, you are calm. You have practiced this scenario dozens of times. You know what to say. You know what not to say. You know when to push and when to hold space.
 
@@ -224,13 +224,13 @@ When people in recovery pair treatment with long-term coaching, their first-year
 No. We train people in recovery, family members, therapists, counselors, and treatment professionals. Lived experience is valuable but not required.
 
 **What exactly is the Core Values Recovery Coach certification?**
-It is an ICF ACC based coaching credential specifically designed for recovery coaching. It covers individuals and families, includes intervention basics, and prepares you for professional practice.
+It is a professional coaching credential specifically designed for recovery coaching. It covers individuals and families, includes intervention basics, and prepares you for professional practice. We are pursuing ICF accreditation, and pilot cohort graduates will receive the accredited credential once approved.
 
 **How is this different from other recovery coach trainings?**
-Three things. First, the ICF ACC based credential. Second, you train on simulated cases with AI clients instead of memorizing scripts. Third, you get lifetime weekly support after graduation. Most programs offer none of these.
+Three things. First, the professional coaching credential. Second, you train on simulated cases with AI clients instead of memorizing scripts. Third, you get lifetime weekly support after graduation. Most programs offer none of these.
 
 **Can I coach outside of recovery with this credential?**
-Yes. The ICF credential applies to all coaching. Recovery is your specialty, but the skills transfer everywhere.
+Yes. The coaching skills you learn apply to all coaching. Recovery is your specialty, but the skills transfer everywhere.
 
 **Is this a religious program?**
 No. The values framework works for people of all beliefs. Faith-neutral by design.
@@ -272,4 +272,4 @@ Online training available nationwide
 
 ***
 
-*Be A Recovery Coach is a division of Core Values Recovery LLC. ICF ACC Based Program. All rights reserved.*
+*Be A Recovery Coach is a division of Core Values Recovery LLC. Professional Certification Program. All rights reserved.*

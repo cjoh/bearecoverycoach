@@ -66,13 +66,15 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
     
-    // Form validation (basic)
-    const forms = document.querySelectorAll('form');
-    forms.forEach(form => {
-        form.addEventListener('submit', function(e) {
-            const requiredFields = form.querySelectorAll('[required]');
+    // Application form: validate and submit to Stripe Checkout
+    const appForm = document.getElementById('application-form');
+    if (appForm) {
+        appForm.addEventListener('submit', async function(e) {
+            e.preventDefault();
+
+            const requiredFields = appForm.querySelectorAll('[required]');
             let isValid = true;
-            
+
             requiredFields.forEach(field => {
                 if (!field.value.trim()) {
                     isValid = false;
@@ -81,7 +83,61 @@ document.addEventListener('DOMContentLoaded', function() {
                     field.style.borderColor = '#e5e7eb';
                 }
             });
-            
+
+            if (!isValid) {
+                alert('Please fill in all required fields.');
+                return;
+            }
+
+            const submitBtn = appForm.querySelector('button[type="submit"]');
+            const originalText = submitBtn.textContent;
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Processing...';
+
+            try {
+                const res = await fetch('/api/create-checkout-session', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        fullName: appForm.querySelector('[name="full-name"]').value.trim(),
+                        email: appForm.querySelector('[name="email"]').value.trim(),
+                        phone: appForm.querySelector('[name="phone"]').value.trim(),
+                        background: appForm.querySelector('[name="background"]').value.trim(),
+                        whyCoaching: appForm.querySelector('[name="why-coaching"]').value.trim(),
+                    }),
+                });
+
+                const data = await res.json();
+
+                if (data.url) {
+                    window.location.href = data.url;
+                } else {
+                    throw new Error(data.error || 'Something went wrong');
+                }
+            } catch (err) {
+                alert('There was a problem submitting your application. Please try again or contact clay@bearecoverycoach.com for help.');
+                submitBtn.disabled = false;
+                submitBtn.textContent = originalText;
+            }
+        });
+    }
+
+    // Generic form validation for other forms
+    const otherForms = document.querySelectorAll('form:not(#application-form)');
+    otherForms.forEach(form => {
+        form.addEventListener('submit', function(e) {
+            const requiredFields = form.querySelectorAll('[required]');
+            let isValid = true;
+
+            requiredFields.forEach(field => {
+                if (!field.value.trim()) {
+                    isValid = false;
+                    field.style.borderColor = '#ff6b5a';
+                } else {
+                    field.style.borderColor = '#e5e7eb';
+                }
+            });
+
             if (!isValid) {
                 e.preventDefault();
                 alert('Please fill in all required fields.');

@@ -61,11 +61,13 @@ html {
 body {
     font-family: var(--font-body);
     font-size: 1.125rem;
-    line-height: 1.8;
+    line-height: 1.4;
     color: var(--text-medium);
     background: var(--bg-cream);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    font-kerning: auto;
+    font-feature-settings: "kern" 1, "liga" 1;
 }
 
 /* ==========================================================================
@@ -132,6 +134,20 @@ a:hover {
 
 .container--narrow {
     max-width: 800px;
+}
+
+/* Prose content: constrain line length to ~70 characters */
+.content > p,
+.content > ul,
+.content > ol,
+.content > blockquote,
+.content > h2,
+.content > h3,
+.content > h4,
+.content > h5,
+.content > h6,
+.content > hr {
+    max-width: 38em;
 }
 
 .container--wide {
@@ -486,7 +502,7 @@ a:hover {
 .section-subtitle {
     font-size: 1.25rem;
     color: var(--text-light);
-    line-height: 1.7;
+    line-height: 1.45;
 }
 
 /* ==========================================================================
@@ -627,7 +643,7 @@ a:hover {
     }
     
     html {
-        font-size: 14px;
+        font-size: 15px;
     }
     
     body {

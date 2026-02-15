@@ -30,27 +30,27 @@ This guide gives you exactly that: actual salary data, honest income scenarios, 
 
 ## Quick Answer: Recovery Coach Salary Range
 
-**Part-Time Recovery Coaches (5-10 clients):**
+**Part-Time Recovery Coaches (5–10 clients):**
 
-* $1,500 - $4,000/month
+* $1,500–$4,000/month
 
-* $18,000 - $48,000/year
+* $18,000–$48,000/year
 
-**Full-Time Recovery Coaches (15-20 clients):**
+**Full-Time Recovery Coaches (15–20 clients):**
 
-* $5,000 - $12,000/month
+* $5,000–$12,000/month
 
-* $60,000 - $144,000/year
+* $60,000–$144,000/year
 
 **Employed Recovery Coaches (Treatment Centers, etc.):**
 
-* $40,000 - $65,000/year salary
+* $40,000–$65,000/year salary
 
 * Benefits included
 
 **Private Practice (Experienced, ICF-Credentialed):**
 
-* $75,000 - $150,000/year
+* $75,000–$150,000/year
 
 * No benefits, higher rates
 
@@ -62,25 +62,25 @@ These ranges are wide because your income depends on a few key factors: credenti
 
 ### By Experience Level
 
-**New Coaches (0-1 year):**
+**New Coaches (0–1 year):**
 
-* **Range:** $50-100/session
+* **Range:** $50–100/session
 
 * **Average:** $75/session
 
 * **Why lower:** You're building your reputation. Clients don't know you yet.
 
-**Emerging Coaches (1-3 years):**
+**Emerging Coaches (1–3 years):**
 
-* **Range:** $100-150/session
+* **Range:** $100–150/session
 
 * **Average:** $125/session
 
 * **Why higher:** You have client results to point to. Word-of-mouth is working.
 
-**Experienced Coaches (3-5 years):**
+**Experienced Coaches (3–5 years):**
 
-* **Range:** $150-200/session
+* **Range:** $150–200/session
 
 * **Average:** $175/session
 
@@ -88,7 +88,7 @@ These ranges are wide because your income depends on a few key factors: credenti
 
 **Master Coaches (5+ years, ICF PCC/MCC):**
 
-* **Range:** $200-300/session
+* **Range:** $200–300/session
 
 * **Average:** $250/session
 
@@ -100,7 +100,7 @@ Your credential is the single fastest lever for raising your rates. Here's how t
 
 **No Credential:**
 
-* $50-75/session
+* $50–75/session
 
 * Limited to peer support and informal coaching
 
@@ -108,7 +108,7 @@ Your credential is the single fastest lever for raising your rates. Here's how t
 
 **Basic Certification (Non-ICF):**
 
-* $75-100/session
+* $75–100/session
 
 * Peer recovery specialist, CARC, etc.
 
@@ -116,23 +116,23 @@ Your credential is the single fastest lever for raising your rates. Here's how t
 
 **ICF ACC (Associate Certified Coach):**
 
-* $100-150/session
+* $100–150/session
 
-* **+33-50% over non-credentialed coaches**
+* **+33–50% over non-credentialed coaches**
 
 * Treatment centers hire you. Families trust you.
 
 **ICF PCC (Professional Certified Coach):**
 
-* $175-250/session
+* $175–250/session
 
-* **+75-100% over non-credentialed**
+* **+75–100% over non-credentialed**
 
 * Premium positioning and advanced skills
 
 **Specialization (Family Recovery, Trauma, etc.):**
 
-* **+$25-50/session** on top of your base rate
+* **+$25–50/session** on top of your base rate
 
 * Niche expertise commands a premium every time
 
@@ -224,9 +224,9 @@ Numbers on a page are one thing. Here's what recovery coaching income looks like
 
 **Caseload:**
 
-* 12-15 clients at any time
+* 12–15 clients at any time
 
-* 3-4 sessions/day
+* 3–4 sessions/day
 
 * Weekly group facilitation
 
@@ -272,7 +272,7 @@ You have options for how you structure your career. Each model has trade-offs, a
 
 ### 1. Employed (Treatment Centers, Nonprofits)
 
-**Salary Range:** $40,000-65,000/year
+**Salary Range:** $40,000–65,000/year
 
 **Pros:**
 
@@ -300,7 +300,7 @@ You have options for how you structure your career. Each model has trade-offs, a
 
 ### 2. Private Practice (Self-Employed)
 
-**Income Range:** $30,000-150,000/year (highly variable)
+**Income Range:** $30,000–150,000/year (highly variable)
 
 **Pros:**
 
@@ -328,13 +328,13 @@ You have options for how you structure your career. Each model has trade-offs, a
 
 ### 3. Hybrid Model (Employed + Private Clients)
 
-**Income Range:** $60,000-100,000/year
+**Income Range:** $60,000–100,000/year
 
 **Structure:**
 
-* Work part-time at a treatment center ($30-40K)
+* Work part-time at a treatment center ($30–40K)
 
-* Private practice evenings/weekends ($20-40K)
+* Private practice evenings/weekends ($20–40K)
 
 **Pros:**
 
@@ -350,7 +350,7 @@ You have options for how you structure your career. Each model has trade-offs, a
 
 **Cons:**
 
-* Time-intensive (50-60 hour weeks)
+* Time-intensive (50–60 hour weeks)
 
 * Potential conflicts of interest (check your employer's policy)
 
@@ -368,9 +368,9 @@ Where you live — and where your clients live — matters. But virtual coaching
 
 **Major metros (NYC, SF, LA, Boston, Seattle):**
 
-* **Rates:** $150-300/session
+* **Rates:** $150–300/session
 
-* **Annual:** $80,000-150,000 (full-time)
+* **Annual:** $80,000–150,000 (full-time)
 
 * **Why higher:** High cost of living, premium clients, insurance coverage more common
 
@@ -378,9 +378,9 @@ Where you live — and where your clients live — matters. But virtual coaching
 
 **Mid-size cities (Denver, Austin, Portland, Nashville):**
 
-* **Rates:** $100-200/session
+* **Rates:** $100–200/session
 
-* **Annual:** $60,000-100,000 (full-time)
+* **Annual:** $60,000–100,000 (full-time)
 
 * **Why moderate:** Balanced cost of living, growing recovery infrastructure
 
@@ -388,9 +388,9 @@ Where you live — and where your clients live — matters. But virtual coaching
 
 **Rural areas, small towns:**
 
-* **Rates:** $50-125/session
+* **Rates:** $50–125/session
 
-* **Annual:** $30,000-75,000 (full-time)
+* **Annual:** $30,000–75,000 (full-time)
 
 * **Why lower:** Lower cost of living, less disposable income, fewer treatment centers nearby
 
@@ -398,9 +398,9 @@ Where you live — and where your clients live — matters. But virtual coaching
 
 **Serve clients anywhere:**
 
-* **Rates:** $100-200/session (you charge based on YOUR expertise, not your client's zip code)
+* **Rates:** $100–200/session (you charge based on YOUR expertise, not your client's zip code)
 
-* **Annual:** $60,000-120,000 (full-time)
+* **Annual:** $60,000–120,000 (full-time)
 
 * **Advantage:** Access higher-paying markets without living there
 
@@ -414,7 +414,7 @@ You don't have to wait years to earn more. Here are six strategies that work, ra
 
 ### 1. Get ICF Credentialed
 
-**Impact:** +$25-50/session
+**Impact:** +$25–50/session
 
 **ROI of Core Values Recovery Coach training:**
 
@@ -430,17 +430,17 @@ This is the highest-leverage move on the list. An ICF ACC-based credential immed
 
 ### 2. Specialize (Niche Down)
 
-**Generic "recovery coach":** $75-100/session
+**Generic "recovery coach":** $75–100/session
 
 **Specialized:**
 
-* Family recovery coach: $125-150/session
+* Family recovery coach: $125–150/session
 
-* Trauma-informed recovery coach: $150-175/session
+* Trauma-informed recovery coach: $150–175/session
 
-* Executive recovery coach: $200-300/session
+* Executive recovery coach: $200–300/session
 
-**Impact:** +$25-100/session
+**Impact:** +$25–100/session
 
 When you serve everyone, you stand out to no one. Pick a niche and own it.
 
@@ -482,11 +482,11 @@ When you serve everyone, you stand out to no one. Pick a niche and own it.
 
 **Digital products:**
 
-* Courses: $200-500
+* Courses: $200–500
 
-* Workbooks: $20-50
+* Workbooks: $20–50
 
-* Membership community: $30-100/month
+* Membership community: $30–100/month
 
 **Example:**
 
@@ -518,19 +518,19 @@ If you go the self-employed route, your gross revenue is not your take-home pay.
 
 **Business Expenses (~20-30% of revenue):**
 
-* Professional liability insurance: $200-500/year
+* Professional liability insurance: $200–500/year
 
 * ICF membership: $270/year
 
-* Platform/tools: $0-600/year (Core Values Recovery Coach graduates get access to coaching tools)
+* Platform/tools: $0–600/year (Core Values Recovery Coach graduates get access to coaching tools)
 
-* Marketing: $500-2,000/year
+* Marketing: $500–2,000/year
 
-* Continuing education: $500-1,500/year
+* Continuing education: $500–1,500/year
 
 * Office/Zoom subscription: $200/year
 
-* Accounting/legal: $500-1,000/year
+* Accounting/legal: $500–1,000/year
 
 **Taxes (~25-30% of revenue):**
 
@@ -601,13 +601,13 @@ These are real numbers from Core Values Recovery Coach graduates. Not projection
 
 **Yes.** But you should know what it takes:
 
-### 1. Experience (3-5 years minimum)
+### 1. Experience (3–5 years minimum)
 
 You can't charge $200+/session without a track record. That's true in any coaching field.
 
 ### 2. ICF PCC Credential
 
-Premium pricing requires premium credentials. The Core Values Recovery Coach training puts you on the ICF ACC path — PCC comes with experience and continued development.
+Premium pricing requires premium credentials. The Core Values Recovery Coach training puts you on a professional credential path — advanced credentials come with experience and continued development.
 
 ### 3. Specialization
 
@@ -632,11 +632,11 @@ Most six-figure coaches use some version of Option C.
 
 | Profession                | Avg. Salary     | Training Required      | License? |
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Recovery Coach**        | $45,000-75,000  | 60-125 hours           | No       |
-| Therapist (LCSW/LPC)      | $55,000-75,000  | Master's + 2,000 hours | Yes      |
-| Social Worker (MSW)       | $50,000-70,000  | Master's degree        | Yes      |
-| Substance Abuse Counselor | $40,000-60,000  | Certificate/Bachelor's | Varies   |
-| Life Coach (Generic)      | $30,000-100,000 | None required          | No       |
+| **Recovery Coach**        | $45,000–75,000  | 60–125 hours           | No       |
+| Therapist (LCSW/LPC)      | $55,000–75,000  | Master's + 2,000 hours | Yes      |
+| Social Worker (MSW)       | $50,000–70,000  | Master's degree        | Yes      |
+| Substance Abuse Counselor | $40,000–60,000  | Certificate/Bachelor's | Varies   |
+| Life Coach (Generic)      | $30,000–100,000 | None required          | No       |
 
 **What stands out about recovery coaching:**
 
@@ -668,25 +668,25 @@ Let's compare the two paths side by side.
 
 **Recovery Coach Path (Core Values Recovery Coach):**
 
-* Time: 6-12 months (training + building your practice)
+* Time: 6–12 months (training + building your practice)
 
 * Cost: $2,379
 
 * Debt: $0
 
-* First-year income: $20,000-40,000 (part-time)
+* First-year income: $20,000–40,000 (part-time)
 
 **Break-even:**
 
-* Therapist: 8-10 years to pay off debt
+* Therapist: 8–10 years to pay off debt
 
 * Recovery coach: Profitable from month 1
 
 **Income ceiling:**
 
-* Therapist: $75,000-100,000 (often capped by insurance rates)
+* Therapist: $75,000–100,000 (often capped by insurance rates)
 
-* Recovery coach: $60,000-150,000+ (you set your rates)
+* Recovery coach: $60,000–150,000+ (you set your rates)
 
 **The financial verdict:** Recovery coaching offers faster ROI, comparable income, and more flexibility. It's not the right path for everyone — but if you're drawn to this work, the economics are strongly in your favor.
 
@@ -696,35 +696,35 @@ Let's compare the two paths side by side.
 
 ### Year 1: Build Your Foundation
 
-* **Goal:** $20,000-30,000
+* **Goal:** $20,000–30,000
 
-* Complete ICF ACC-based training (like Core Values Recovery Coach)
+* Complete professional coach training (like Core Values Recovery Coach)
 
-* Get your first 5-10 clients
+* Get your first 5–10 clients
 
-* Charge $75-100/session
+* Charge $75–100/session
 
 * Focus on experience and outcomes, not income
 
 ### Year 2: Raise Your Rates
 
-* **Goal:** $40,000-50,000
+* **Goal:** $40,000–50,000
 
 * Earn your ICF ACC credential
 
-* Raise rates to $125-150
+* Raise rates to $125–150
 
-* Expand to 10-12 clients
+* Expand to 10–12 clients
 
 * Collect testimonials and case studies
 
 ### Year 3: Specialize and Scale
 
-* **Goal:** $60,000-80,000
+* **Goal:** $60,000–80,000
 
 * Niche down (family recovery, trauma-informed, executive, etc.)
 
-* Charge $150-175/session
+* Charge $150–175/session
 
 * 15+ clients OR add group coaching
 
@@ -732,11 +732,11 @@ Let's compare the two paths side by side.
 
 ### Year 4-5: Premium Positioning
 
-* **Goal:** $80,000-100,000+
+* **Goal:** $80,000–100,000+
 
 * Pursue ICF PCC credential (if that's your path)
 
-* Charge $175-250/session
+* Charge $175–250/session
 
 * Add passive income (courses, membership community)
 
@@ -750,7 +750,7 @@ Let's compare the two paths side by side.
 
 **Core Values Recovery Coach Training:**
 
-* ICF ACC based program — the credential that raises your rates
+* Professional certification — the credential that raises your rates
 
 * Practice with 50+ AI clients who give you real feedback
 
@@ -760,7 +760,7 @@ Let's compare the two paths side by side.
 
 * **$2,379** total investment
 
-**First-year income potential:** $20,000-40,000 (part-time)
+**First-year income potential:** $20,000–40,000 (part-time)
 
 <a href="/apply/" class="btn btn--large btn--primary" style="margin-top: 2rem;">Apply for Next Cohort</a>
 

@@ -26,7 +26,7 @@ You need more than theory. You need practice. You need feedback. You need suppor
 
 ## Core Values Recovery Coach Certification
 
-**An ICF ACC based program that actually prepares you for real clients.**
+**<span data-proof="suggestion" data-id="m1771097554297_12" data-by="ai:external-agent" data-kind="replace">An ICF ACC based program that actually prepares you for real clients.</span>**
 
 Here's what makes this different:
 
@@ -58,7 +58,7 @@ Same Page Notes for client management. SobaSearch for treatment resources. Recov
 Complete a short application. Takes about 5 minutes.
 
 **Step 2: Train for 20 Weeks**
-Complete the ICF ACC based curriculum online — from anywhere in Rhode Island. 8 training areas covering coaching essentials, recovery case management, intervention, family coaching, and more.
+<span data-proof="suggestion" data-id="m1771097554283_11" data-by="ai:external-agent" data-kind="replace">Complete the ICF ACC based curriculum online — from anywhere in Rhode Island. 9 modules covering coaching fundamentals, motivational interviewing, family systems, recovery capital, and more.</span>
 
 **Step 3: Launch Your Practice**
 Graduate with your Core Values Recovery Coach credential, professional tools, and a support community that lasts a lifetime.
@@ -75,7 +75,7 @@ Without proper preparation, you'll face situations you're not ready for. A clien
 
 ## What Your Life Looks Like After
 
-You're credentialed. ICF ACC based. You've already practiced hundreds of scenarios before your first real session.
+<span data-proof="suggestion" data-id="m1771097554218_10" data-by="ai:external-agent" data-kind="replace">You're credentialed. ICF ACC based. You've already practiced hundreds of scenarios before your first real session.</span>
 
 You have professional tools to manage your practice. Weekly support calls when you need guidance. A community of coaches who understand what you do.
 
@@ -117,6 +117,17 @@ Payment plans available.
 {
   "version": 2,
   "marks": {
+    "m1771097554297_12": {
+      "kind": "replace",
+      "by": "ai:external-agent",
+      "createdAt": "2026-02-14T19:32:34.297Z",
+      "range": {
+        "from": 1178,
+        "to": 1247
+      },
+      "content": "An professional certification program that actually prepares you for real clients.",
+      "status": "pending"
+    },
     "m1771086432668_7": {
       "kind": "replace",
       "by": "ai:external-agent",
@@ -126,6 +137,28 @@ Payment plans available.
         "to": 1552
       },
       "content": "50+ AI practice clients\nBefore you work with real clients, you practice with AI clients who simulate real scenarios. A client in crisis. A family member in denial. A relapse at 6 months. You get real feedback on your responses — not a grade on a multiple choice test.",
+      "status": "pending"
+    },
+    "m1771097554283_11": {
+      "kind": "replace",
+      "by": "ai:external-agent",
+      "createdAt": "2026-02-14T19:32:34.283Z",
+      "range": {
+        "from": 2346,
+        "to": 2536
+      },
+      "content": "Complete the professional curriculum online — from anywhere in Rhode Island. 9 modules covering coaching fundamentals, motivational interviewing, family systems, recovery capital, and more.",
+      "status": "pending"
+    },
+    "m1771097554218_10": {
+      "kind": "replace",
+      "by": "ai:external-agent",
+      "createdAt": "2026-02-14T19:32:34.218Z",
+      "range": {
+        "from": 2998,
+        "to": 3112
+      },
+      "content": "You're credentialed. Professionally trained. You've already practiced hundreds of scenarios before your first real session.",
       "status": "pending"
     },
     "m1771086200017_1": {

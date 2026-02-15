@@ -40,7 +40,7 @@ Here's what most people don't realize: recovery coaches and therapists do fundam
 | **Can Diagnose**       | No                                | Yes (mental health conditions)       |
 | **Can Prescribe**      | No                                | No (except psychiatrists)            |
 | **Insurance Coverage** | Rarely (changing)                 | Usually yes                          |
-| **Typical Cost**       | $75-200/session                   | $100-250/session                     |
+| **Typical Cost**       | $75–200/session                   | $100–250/session                     |
 | **Session Focus**      | Action, accountability, growth    | Insight, healing, coping             |
 | **Duration**           | Short-term to ongoing             | Often long-term                      |
 
@@ -296,7 +296,7 @@ Neither is better. They serve different purposes.
 
 **Recovery Coach:**
 
-* **Training:** 60-125 hours (ICF-based programs)
+* **Training:** 60–125 hours (ICF-based programs)
 
 * **Credentials:** ICF ACC/PCC (optional but increasingly valuable)
 
@@ -306,11 +306,11 @@ Neither is better. They serve different purposes.
 
 * **Specialization:** Recovery, addiction, family systems
 
-* **Time to practice:** 6-12 months
+* **Time to practice:** 6–12 months
 
 **Therapist:**
 
-* **Training:** Master's degree (2-3 years) plus supervised hours (2+ years)
+* **Training:** Master's degree (2–3 years) plus supervised hours (2+ years)
 
 * **Credentials:** LCSW, LPC, LMFT, psychologist, etc.
 
@@ -320,7 +320,7 @@ Neither is better. They serve different purposes.
 
 * **Specialization:** Varies (trauma, addiction, family therapy, etc.)
 
-* **Time to practice:** 4-6 years
+* **Time to practice:** 4–6 years
 
 ### 4. Scope of Practice
 
@@ -372,7 +372,7 @@ Neither is better. They serve different purposes.
 
 **Recovery Coach:**
 
-* **Cost:** $75-200/session
+* **Cost:** $75–200/session
 
 * **Insurance:** Rarely covered (but this is changing)
 
@@ -382,7 +382,7 @@ Neither is better. They serve different purposes.
 
 **Therapist:**
 
-* **Cost:** $100-250/session
+* **Cost:** $100–250/session
 
 * **Insurance:** Often covered (check your plan)
 
@@ -555,7 +555,7 @@ You can't afford out-of-pocket services. You need your insurance to pay.
 
 ### 5. You're in the Acute Phase of Recovery
 
-The first 30-90 days. High relapse risk. Everything feels unstable.
+The first 30–90 days. High relapse risk. Everything feels unstable.
 
 **You need:**
 
@@ -857,11 +857,11 @@ Recovery coaching is one of the fastest-growing careers in behavioral health. An
 
 ### Core Values Recovery Coach Training
 
-The Core Values Recovery Coach certification is an ICF ACC based program designed to give you everything you need to start coaching individuals and families in recovery — with real skills, not scripts.
+The Core Values Recovery Coach certification is a professional program designed to give you everything you need to start coaching individuals and families in recovery — with real skills, not scripts.
 
 **What makes it different:**
 
-* **ICF ACC Based Program** — Built on the gold standard in coaching credentials, so your training is recognized and respected
+* **Professional Certification** — Rigorous training built to professional coaching standards, with ICF accreditation in progress
 
 * **Practice with 50+ AI clients** — Simulated clients who give you real feedback, so you build genuine coaching skills before you ever work with a live client
 

@@ -132,8 +132,8 @@ When using client testimonials:
 
 #### Prohibited Success Claims
 Do not claim:
-- Specific success rates without data ("90% of my clients achieve...")
-- Guaranteed outcomes ("I will help you achieve...")
+- Specific success rates without data ("90% of my clients achieve…")
+- Guaranteed outcomes ("I will help you achieve…")
 - Comparisons to other coaches or methods without evidence
 - Clinical outcomes (sobriety rates, mental health improvement)
 

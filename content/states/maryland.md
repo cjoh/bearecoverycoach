@@ -26,7 +26,7 @@ layout: "single"
 
 ## <span data-proof="authored" data-by="ai:claude">Core Values Recovery Coach Certification</span>
 
-**<span data-proof="authored" data-by="ai:claude">An ICF ACC based program that actually prepares you for real clients.</span>**
+**<span data-proof="suggestion" data-id="m1771097554364_12" data-by="ai:claude" data-kind="replace"><span data-proof="authored" data-by="ai:claude">An ICF ACC based program that actually prepares you for real clients.</span></span>**
 
 <span data-proof="authored" data-by="ai:claude">Here's what makes this different:</span>
 
@@ -58,7 +58,7 @@ layout: "single"
 Complete a short application. Takes about 5 minutes.</span>
 
 **<span data-proof="authored" data-by="ai:claude">Step 2: Train for 20 Weeks</span>**<span data-proof="authored" data-by="ai:claude">
-Complete the ICF ACC based curriculum online — from anywhere in Maryland. 8 training areas covering coaching essentials, recovery case management, intervention, family coaching, and more.</span>
+</span><span data-proof="suggestion" data-id="m1771097554361_11" data-by="ai:claude" data-kind="replace"><span data-proof="authored" data-by="ai:claude">Complete the ICF ACC based curriculum online — from anywhere in Maryland. 9 modules covering coaching fundamentals, motivational interviewing, family systems, recovery capital, and more.</span></span>
 
 **<span data-proof="authored" data-by="ai:claude">Step 3: Launch Your Practice</span>**<span data-proof="authored" data-by="ai:claude">
 Graduate with your Core Values Recovery Coach credential, professional tools, and a support community that lasts a lifetime.</span>
@@ -75,7 +75,7 @@ Graduate with your Core Values Recovery Coach credential, professional tools, an
 
 ## <span data-proof="authored" data-by="ai:claude">What Your Life Looks Like After</span>
 
-<span data-proof="authored" data-by="ai:claude">You're credentialed. ICF ACC based. You've already practiced hundreds of scenarios before your first real session.</span>
+<span data-proof="suggestion" data-id="m1771097554358_10" data-by="ai:claude" data-kind="replace"><span data-proof="authored" data-by="ai:claude">You're credentialed. ICF ACC based. You've already practiced hundreds of scenarios before your first real session.</span></span>
 
 <span data-proof="authored" data-by="ai:claude">You have professional tools to manage your practice. Weekly support calls when you need guidance. A community of coaches who understand what you do.</span>
 
@@ -117,6 +117,17 @@ Graduate with your Core Values Recovery Coach credential, professional tools, an
 {
   "version": 2,
   "marks": {
+    "m1771097554364_12": {
+      "kind": "replace",
+      "by": "ai:claude",
+      "createdAt": "2026-02-14T19:32:34.364Z",
+      "range": {
+        "from": 1158,
+        "to": 1227
+      },
+      "content": "An professional certification program that actually prepares you for real clients.",
+      "status": "pending"
+    },
     "m1771086433511_7": {
       "kind": "replace",
       "by": "ai:claude",
@@ -126,6 +137,28 @@ Graduate with your Core Values Recovery Coach credential, professional tools, an
         "to": 1532
       },
       "content": "50+ AI practice clients\nBefore you work with real clients, you practice with AI clients who simulate real scenarios. A client in crisis. A family member in denial. A relapse at 6 months. You get real feedback on your responses — not a grade on a multiple choice test.",
+      "status": "pending"
+    },
+    "m1771097554361_11": {
+      "kind": "replace",
+      "by": "ai:claude",
+      "createdAt": "2026-02-14T19:32:34.361Z",
+      "range": {
+        "from": 2322,
+        "to": 2508
+      },
+      "content": "Complete the professional curriculum online — from anywhere in Maryland. 9 modules covering coaching fundamentals, motivational interviewing, family systems, recovery capital, and more.",
+      "status": "pending"
+    },
+    "m1771097554358_10": {
+      "kind": "replace",
+      "by": "ai:claude",
+      "createdAt": "2026-02-14T19:32:34.358Z",
+      "range": {
+        "from": 2970,
+        "to": 3084
+      },
+      "content": "You're credentialed. Professionally trained. You've already practiced hundreds of scenarios before your first real session.",
       "status": "pending"
     },
     "m1771086200181_1": {

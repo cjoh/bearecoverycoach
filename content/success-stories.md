@@ -18,7 +18,7 @@ Every coach on this page started with the same question: *Can I really do this?*
 
 ## Ready to Coach After the Weekend Immersion
 
-Most programs make you wait months before you touch a real client. Our coaches start taking clients after the intensive weekend immersion in Weeks 5-8.
+Most programs make you wait months before you touch a real client. Our coaches start taking clients after the intensive weekend immersion in Weeks 5–8.
 
 By then, you've already practiced with 50+ AI clients. You've worked through simulated cases with trainers. You've gotten written feedback on your coaching. You're not guessing. You're ready.
 
@@ -46,7 +46,7 @@ Our graduates consistently point to the same things:
 
 * **Simulated cases with trainers** taught them to think on their feet, not memorize scripts they'd forget under pressure.
 
-* **The ICF ACC based credential** opens doors. Treatment centers hire coaches with ICF credentials. Families trust them.
+* **The professional credential** opens doors. Treatment centers hire credentialed coaches. Families trust them.
 
 * **Lifetime weekly support and office hours** mean they're never stuck on a tough case alone. Someone is always there.
 

@@ -1,6 +1,6 @@
 ---
 title: "Apply Now - Core Values Recovery Coach Certification"
-description: "Apply for the Core Values Recovery Coach certification. ICF ACC based program. 20 weeks to a new career helping individuals and families in recovery."
+description: "Apply for the Core Values Recovery Coach certification pilot cohort. 20 weeks to a new career helping individuals and families in recovery. Only 5 spots."
 label: "Apply Now"
 ---
 
@@ -24,7 +24,7 @@ In 20 weeks, you'll go from where you are now to a credentialed **Core Values Re
 
 * **A proven coaching methodology** built through simulated cases with trainers, not rote scripts
 
-* **An ICF ACC based credential** that earns trust from clients, treatment centers, and referral partners
+* **A professional credential** that earns trust from clients, treatment centers, and referral partners
 
 * **Lifetime weekly support** and office hours for as long as you maintain your credential
 
@@ -50,7 +50,7 @@ Secure your spot, receive your welcome packet, and join your cohort. You'll begi
 
 ***
 
-<form action="/submit-application" method="POST" class="application-form" style="max-width: 700px; margin: 0 auto;">
+<form id="application-form" class="application-form" style="max-width: 700px; margin: 0 auto;">
 
 ### Tell Us About You
 
@@ -72,8 +72,8 @@ Secure your spot, receive your welcome packet, and join your cohort. You'll begi
 <textarea name="why-coaching" rows="4" required placeholder="What draws you to recovery coaching? What would it mean to you to help individuals and families in recovery?" style="width: 100%; padding: 1rem; border: 2px solid var(--border-subtle); margin-bottom: 2rem;"></textarea>
 
 <div style="text-align: center;">
-    <button type="submit" class="btn btn--large btn--primary">Submit My Application</button>
-    <p style="margin-top: 1rem; font-size: 0.9375rem; color: var(--text-light);">We'll be in touch within 3 business days to schedule your interview.</p>
+    <button type="submit" class="btn btn--large btn--primary">Submit Application & Pay $2,379</button>
+    <p style="margin-top: 1rem; font-size: 0.9375rem; color: var(--text-light);">You'll be redirected to Stripe's secure checkout to complete payment.<br>We'll be in touch within 3 business days to schedule your interview.</p>
 </div>
 
 </form>
@@ -90,7 +90,7 @@ You don't need clinical credentials or years of professional coaching. Many of o
 
 ### "I'm not sure I can afford it."
 
-The full program is **$2,379**. Payment plans are available. Compare that to a graduate degree ($60,000+) or other certification programs that don't include AI practice tools, lifetime support, or an ICF ACC based pathway.
+The full program is **$2,379**. Payment plans are available. Compare that to a graduate degree ($60,000+) or other certification programs that don't include AI practice tools, lifetime support, or a pathway to accredited credentials.
 
 ### "What if I'm not good at coaching?"
 
@@ -114,7 +114,7 @@ We'll review your application and reach out within 3 business days to schedule a
 No specific degrees or certifications required. We look for people with a genuine connection to recovery (personal, family, or professional) and a commitment to doing the work.
 
 **What's the time commitment during training?**
-Plan for 4-6 hours per week over 20 weeks. This includes live sessions, practice with AI clients, and work on simulated cases with your trainers.
+Plan for 4–6 hours per week over 20 weeks. This includes live sessions, practice with AI clients, and work on simulated cases with your trainers.
 
 **When does the next cohort start?**
 Cohort dates are shared during your interview. Space is limited to ensure quality training.
@@ -122,8 +122,8 @@ Cohort dates are shared during your interview. Space is limited to ensure qualit
 **What's included in the $2,379?**
 The complete 20-week Core Values Recovery Coach certification program, access to 50+ AI practice clients, all training materials, basics of intervention techniques, and lifetime weekly support and office hours for as long as you maintain your credential.
 
-**Is this an ICF certification?**
-The Core Values Recovery Coach program is an ICF ACC based program. It provides the training foundation for pursuing your ICF ACC credential.
+**Will this program be accredited?**
+We are pursuing ICF accreditation. Pilot cohort graduates will receive the accredited credential once it's approved, at no additional cost.
 
 ***
 
@@ -131,7 +131,7 @@ The Core Values Recovery Coach program is an ICF ACC based program. It provides 
 
 ## Picture This: 20 Weeks From Now
 
-You're a credentialed **Core Values Recovery Coach**. You've practiced with 50+ AI clients who pushed you to get better. You've worked through dozens of simulated cases with your trainers. You have professional tools, an ICF ACC based credential pathway, and a community of fellow coaches who show up for weekly support calls.
+You're a credentialed **Core Values Recovery Coach**. You've practiced with 50+ AI clients who pushed you to get better. You've worked through dozens of simulated cases with your trainers. You have professional tools, a credential pathway, and a community of fellow coaches who show up for weekly support calls.
 
 You're ready to help individuals and families in recovery build the lives they deserve.
 

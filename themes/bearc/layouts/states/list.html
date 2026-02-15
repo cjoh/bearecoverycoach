@@ -14,7 +14,7 @@
             {{ range .Pages.ByTitle }}
             <a href="{{ .Permalink }}" class="card" style="text-decoration: none; border-bottom: none; display: block; transition: transform 0.2s ease, box-shadow 0.2s ease;">
                 <div class="card-content" style="padding: 1.5rem; text-align: center;">
-                    <h3 style="margin: 0; color: var(--primary-navy); font-size: 1.125rem;">{{ .Title | replaceRE "Become a Recovery Coach in " "" | replaceRE ": ICF ACC Based Certification" "" }}</h3>
+                    <h3 style="margin: 0; color: var(--primary-navy); font-size: 1.125rem;">{{ .Title | replaceRE "Become a Recovery Coach in " "" | replaceRE "" "" }}</h3>
                 </div>
             </a>
             {{ end }}
@@ -26,7 +26,7 @@
     <div class="container container--narrow">
         <h2 style="color: white; margin-bottom: 1rem;">Ready to Get Started?</h2>
         <p style="color: rgba(255,255,255,0.85); font-size: 1.125rem; max-width: 600px; margin: 0 auto 2rem;">
-            Train from anywhere. ICF ACC based certification with 50+ AI practice clients and lifetime support. $2,379.
+            Train from anywhere. Professional certification with 50+ AI practice clients and lifetime support. $2,379.
         </p>
         <a href="/apply/" class="btn btn--large btn--primary">Apply for Next Cohort</a>
     </div>
