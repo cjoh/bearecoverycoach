@@ -531,6 +531,13 @@ a:hover {
     margin-bottom: var(--space-md);
 }
 
+.card-icon img {
+    display: block;
+    margin: 0 auto;
+    max-width: 80px;
+    height: auto;
+}
+
 .card-title {
     font-size: 1.75rem;
     margin-bottom: var(--space-sm);
